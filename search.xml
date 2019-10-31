@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[2019秋博士生《高级宏观经济学》课程信息]]></title>
     <url>https%3A%2F%2Fwww.yiming.website%2F%2Fteaching%2F2019fdmacro%2F</url>
-    <content type="text"><![CDATA[马诗卉讲授部分 讲义下载： 作业： 易鸣讲授部分 讲义下载：Lecture Notes。 布置一次作业，截止日期为12月25日。作业下载：Homework。 作业需要使用计算软件。这里提供 Python 和 Matlab脚本程序的模板下载：Matlab codes, Python codes。请注意各文件中置顶的注释部分： 123456# To run this script in Ptyhon, you should make sure that # both matplotlib and numpy modules are pre-installed.# This file should serve only as a template for you to start working.# So I intentionally added quite a few mistakes (but not syntax errors)# into this file, to make sure that nobody can just copy # all the codes to her software and get correct results. 1234% codes in Matlab for (a)-(c) of the Dynamic Programming homework. % I intentionally added quite a few mistakes (but not syntax errors)% into this file, to make sure that nobody can just copy % all the codes to her software and get correct results.]]></content>
+    <content type="text"><![CDATA[易鸣课程部分，讲义下载：Lecture Notes。 布置一次作业，截止日期为12月25日。作业下载：Homework。 作业需要使用计算软件。这里提供 Python 和 Matlab脚本程序的模板下载：Matlab codes, Python codes。请注意各文件中置顶的注释部分： 123456# To run this script in Ptyhon, you should make sure that # both matplotlib and numpy modules are pre-installed.# This file should serve only as a template for you to start working.# So I intentionally added quite a few mistakes (but not syntax errors)# into this file, to make sure that nobody can just copy # all the codes to her software and get correct results. 1234% codes in Matlab for (a)-(c) of the Dynamic Programming homework. % I intentionally added quite a few mistakes (but not syntax errors)% into this file, to make sure that nobody can just copy % all the codes to her software and get correct results.]]></content>
       <categories>
         <category>Course</category>
       </categories>
@@ -139,14 +139,14 @@
     <content type="text"></content>
   </entry>
   <entry>
-    <title><![CDATA[经济系研究生答辩相关文件下载]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2Fecondefense%2Findex.html</url>
-    <content type="text"><![CDATA[当前答辩安排 20191026_经济系硕士开题答辩 相关表格下载 硕士开题相关： 硕士生中期筛选考核表 研究生科研能力评议表 博士开题相关： 博士生中期筛选考核表 博士预答辩相关： 博士学位论文预答辩申请表 博士学位论文预答辩意见书 硕士答辩相关： 博士答辩相关：]]></content>
-  </entry>
-  <entry>
     <title><![CDATA[All Tags]]></title>
     <url>https%3A%2F%2Fwww.yiming.website%2Ftags%2Findex.html</url>
     <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[经济系研究生答辩相关文件下载]]></title>
+    <url>https%3A%2F%2Fwww.yiming.website%2Fecondefense%2Findex.html</url>
+    <content type="text"><![CDATA[当前答辩安排 20191026_经济系硕士开题答辩 相关表格下载 硕士开题相关： 硕士生中期筛选考核表 研究生科研能力评议表 博士开题相关： 博士生中期筛选考核表 博士预答辩相关： 博士学位论文预答辩申请表 博士学位论文预答辩意见书 硕士答辩相关： 博士答辩相关：]]></content>
   </entry>
   <entry>
     <title><![CDATA[Teaching Information]]></title>
