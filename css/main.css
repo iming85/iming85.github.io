@@ -185,7 +185,7 @@ th {
 }
 body {
   position: relative;
-  font-family: Helvetica, "PT Serif", 'Times New Roman', Times, STKaiTi, KaiTi, STKaiti, "PingFang SC", "SongTi", "STFangsong", "STKaiTi", "Microsoft YaHei", sans-serif;
+  font-family: Helvetica, "PT Serif", 'Times New Roman', Times, STKaiTi, Kaiti, KaiTi, STKaiti, "PingFang SC", "SongTi", "STFangsong", "STKaiTi", "Microsoft YaHei", sans-serif, Fangsong;
   font-size: 18px;
   line-height: 1.8;
   color: #111;
@@ -216,7 +216,7 @@ h6 {
   padding: 0;
   font-weight: bold;
   line-height: 1.5;
-  font-family: get_font_family('headings'), Helvetica, "PT Serif", 'Times New Roman', Times, STKaiTi, KaiTi, STKaiti, "PingFang SC", "SongTi", "STFangsong", "STKaiTi", "Microsoft YaHei", sans-serif;
+  font-family: get_font_family('headings'), Helvetica, "PT Serif", 'Times New Roman', Times, STKaiTi, Kaiti, KaiTi, STKaiti, "PingFang SC", "SongTi", "STFangsong", "STKaiTi", "Microsoft YaHei", sans-serif, Fangsong;
 }
 h2,
 h3,
@@ -1089,7 +1089,7 @@ pre .javascript .function {
   opacity: 0;
 }
 .post-body {
-  font-family: get_font_family('posts'), Helvetica, "PT Serif", 'Times New Roman', Times, STKaiTi, KaiTi, STKaiti, "PingFang SC", "SongTi", "STFangsong", "STKaiTi", "Microsoft YaHei", sans-serif;
+  font-family: get_font_family('posts'), Helvetica, "PT Serif", 'Times New Roman', Times, STKaiTi, Kaiti, KaiTi, STKaiti, "PingFang SC", "SongTi", "STFangsong", "STKaiTi", "Microsoft YaHei", sans-serif, Fangsong;
 }
 @media (max-width: 767px) {
   .post-body {
@@ -1370,7 +1370,7 @@ pre .javascript .function {
 .posts-expand .post-meta {
   margin: 3px 0 60px 0;
   color: #999;
-  font-family: get_font_family('posts'), Helvetica, "PT Serif", 'Times New Roman', Times, STKaiTi, KaiTi, STKaiti, "PingFang SC", "SongTi", "STFangsong", "STKaiTi", "Microsoft YaHei", sans-serif;
+  font-family: get_font_family('posts'), Helvetica, "PT Serif", 'Times New Roman', Times, STKaiTi, Kaiti, KaiTi, STKaiti, "PingFang SC", "SongTi", "STFangsong", "STKaiTi", "Microsoft YaHei", sans-serif, Fangsong;
   font-size: 12px;
   text-align: center;
 }
@@ -1703,7 +1703,7 @@ post-body a:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #e791b3;
+  background: #79cdd1;
 }
 .links-of-blogroll {
   font-size: 13px;
