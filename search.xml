@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[2022秋博士生《高级宏观经济学》课程信息]]></title>
     <url>https%3A%2F%2Fwww.yiming.website%2F%2Fteaching%2F2022fdmacro%2F</url>
-    <content type="text"><![CDATA[易鸣课程部分，讲义下载：Lecture Notes。 布置一次作业，截止日期为12月30日。作业下载：Homework。 作业需要使用计算软件。这里提供 Python 和 Matlab脚本程序的模板下载：Matlab codes, Python codes。请注意各文件中置顶的注释部分： 123456# To run this script in Ptyhon, you should make sure that # both matplotlib and numpy modules are pre-installed.# This file should serve only as a template for you to start working.# So I intentionally added quite a few mistakes (but not syntax errors)# into this file, to make sure that nobody can just copy # all the codes to her software and get correct results. 1234% codes in Matlab for (a)-(c) of the Dynamic Programming homework. % I intentionally added quite a few mistakes (but not syntax errors)% into this file, to make sure that nobody can just copy % all the codes to her software and get correct results.]]></content>
+    <content type="text"><![CDATA[易鸣课程部分，讲义下载：Lecture Notes。 布置一次作业，截止日期为12月31日。作业下载：Homework。 作业需要使用计算软件。这里提供 Python 和 Matlab脚本程序的模板下载：Matlab codes, Python codes。请注意各文件中置顶的注释部分： 123456# To run this script in Ptyhon, you should make sure that # both matplotlib and numpy modules are pre-installed.# This file should serve only as a template for you to start working.# So I intentionally added quite a few mistakes (but not syntax errors)# into this file, to make sure that nobody can just copy # all the codes to her software and get correct results. 1234% codes in Matlab for (a)-(c) of the Dynamic Programming homework. % I intentionally added quite a few mistakes (but not syntax errors)% into this file, to make sure that nobody can just copy % all the codes to her software and get correct results.]]></content>
       <categories>
         <category>Course</category>
       </categories>
@@ -181,14 +181,14 @@
     <content type="text"></content>
   </entry>
   <entry>
-    <title><![CDATA[Teaching Information]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2Fteaching%2Findex.html</url>
-    <content type="text"><![CDATA[Spring Semester 2018 Undergraduate Advanced Macroeconomics. Click here for course information. Fall Semester 2017 Undergraduate Intermediate Macroeconomics. Click here for course information. Graduate Advanced Macroeconoics (instructed jointly with Xu and Ma). Click here for course information.]]></content>
-  </entry>
-  <entry>
     <title><![CDATA[Temporary Files]]></title>
     <url>https%3A%2F%2Fwww.yiming.website%2Ftemporary_files%2Findex.html</url>
     <content type="text"><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Teaching Information]]></title>
+    <url>https%3A%2F%2Fwww.yiming.website%2Fteaching%2Findex.html</url>
+    <content type="text"><![CDATA[Spring Semester 2018 Undergraduate Advanced Macroeconomics. Click here for course information. Fall Semester 2017 Undergraduate Intermediate Macroeconomics. Click here for course information. Graduate Advanced Macroeconoics (instructed jointly with Xu and Ma). Click here for course information.]]></content>
   </entry>
   <entry>
     <title><![CDATA[Workshop and Seminar Information]]></title>
