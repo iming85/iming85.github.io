@@ -185,7 +185,7 @@ th {
 }
 body {
   position: relative;
-  font-family: Kaiti, Kai, Helvetica, "PT Serif", 'Times New Roman', Times, STKaiti, KaiTi, STKaiti, "STKaiti", "PingFang SC", "SongTi", "STFangsong", "Microsoft YaHei", sans-serif, Fangsong;
+  font-family: STKaiti, Kaiti, Kai, Helvetica, "PT Serif", 'Times New Roman', Times, STKaiti, KaiTi, "STKaiti", "PingFang SC", "SongTi", "STFangsong", "Microsoft YaHei", sans-serif, Fangsong;
   font-size: 18px;
   line-height: 1.8;
   color: #111;
@@ -1703,7 +1703,7 @@ post-body a:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #7e9065;
+  background: #ff169a;
 }
 .links-of-blogroll {
   font-size: 13px;
