@@ -1,198 +1,466 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[Ph.D. Macroeconomics lectures on Dynamic Programming and Optimal Control, 2023 Fall]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2F%2Fteaching%2F2023fdmacro%2F</url>
-    <content type="text"><![CDATA[For this year's lecture notes on introductory DP &amp; OC, please download notes and supplementary files from the following links：Lecture Notes, Lucas Tree Paper, Lucas Tree notebook from QuantEcon.org 。 Exercises are due on January 15th, 2024. Download link: Homework。 You may want to download the Matlab and/or Python template scripts that give you basic ideas on how to implement the steps required in a dynamic programming problem: Matlab codes, Python codes. However, please DO notice the comment lines on top of the script files. 123456# To run this script in Python, you should make sure that # both matplotlib and numpy modules are pre-installed.# This file should serve only as a template for you to start working.# So I intentionally added quite a few mistakes (but not syntax errors)# into this file, to make sure that nobody can just copy # all the codes to her software and get correct results. 1234% codes in Matlab for (a)-(c) of the Dynamic Programming homework. % I intentionally added quite a few mistakes (but not syntax errors)% into this file, to make sure that nobody can just copy % all the codes to her software and get correct results.]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Ph.D. Macroeconomics lectures on Dynamic Programming and Optimal Control, 2023 Fall</title>
+      <link href="//teaching/2023fdmacro/"/>
+      <url>//teaching/2023fdmacro/</url>
+      
+        <content type="html"><![CDATA[<ul><li><p>For this year's lecture notes on introductory DP &amp; OC, please download notes and supplementary files from the following links：<a href="/teaching/2023fdmacro/2023_dp_oc_notes.pdf">Lecture Notes</a>, <a href="/teaching/2023fdmacro/Lucas1978.pdf">Lucas Tree Paper</a>, <a href="/teaching/2023fdmacro/lucas_model.ipynb">Lucas Tree notebook from QuantEcon.org</a> 。</p></li><li><p>Exercises are due on January 15th, 2024. Download link: <a href="/teaching/2023fdmacro/2023_dp_homework.pdf">Homework</a>。</p></li><li><p>You may want to download the Matlab and/or Python template scripts that give you basic ideas on how to implement the steps required in a dynamic programming problem: <a href="/teaching/2023fdmacro/matlab_codes_template.zip">Matlab codes</a>, <a href="/teaching/2023fdmacro/python_codes_template.py">Python codes</a>. However, please DO notice the comment lines on top of the script files.</p></li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"># To run this script in Python, you should make sure that </div><div class="line"># both matplotlib and numpy modules are pre-installed.</div><div class="line"># This file should serve only as a template for you to start working.</div><div class="line"># So I intentionally added quite a few mistakes (but not syntax errors)</div><div class="line"># into this file, to make sure that nobody can just copy </div><div class="line"># all the codes to her software and get correct results.</div></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">% codes in Matlab for (a)-(c) of the Dynamic Programming homework. </div><div class="line">% I intentionally added quite a few mistakes (but not syntax errors)</div><div class="line">% into this file, to make sure that nobody can just copy </div><div class="line">% all the codes to her software and get correct results.</div></pre></td></tr></table></figure>]]></content>
+      
+      
       <categories>
-        <category>Course</category>
+          
+          <category> Course </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2023春本科生《高级宏观经济学》课程信息]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2F%2Fteaching%2F2023sumacro%2F</url>
-    <content type="text"><![CDATA[西方经济学（第二版，下册宏观经济学部分）。《西方经济学》编写组。高等教育出版社，人民出版社，2019（2021重印）。 高级宏观经济学（第五版），（美）罗默著，吴化斌/龚关译，上海财经大学出版社，2021。 Advanced Macroeconomics, 5th Edition. David Romer, 2018. New York: McGraw-Hill Irwin. Chapter 5. Download: slides, 推导笔记,参考论文,codes_and_figures, notes_1, notes_2, notes_3. Homework: 5.3, 5.4, 5.6, 5.14. Due date to be announced. Chapter 4. Download: slides. No assignments. Chapter 3. Download: slides. Assignments: 3.1, 3.2, 3.7, 3.11. Due date: May/22/2023. Chapter 2. Download: slides, supplementary notes. 动态规划与最优控制入门讲义（不做要求，仅供部分学有余力的同学参考）。Assignments: 2.2, 2.6, 2.9, 2.10, 2.18, 2.19. Due date: May/15/2023. Chapter 1. Download: slides.Assignments: 1.1, 1.3, 1.4, 1.9, 1.12, 1.13 Due date: April/06/2023. Exams in previous years. 2015：Midterm 1，Midterm 2，Final Exam。2016：Midterm 1，Midterm 2，Final Exam。2017：Midterm 1，Midterm 2，Final Exam。2018：Midterm 1, Midterm 2, Final Exam。2019：Midterm 1, Midterm 2, Final Exam。2020：Final Exam。2021：Midterm Exam, Final Exam Greek Alphabet. Download：课程大纲]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2023春本科生《高级宏观经济学》课程信息</title>
+      <link href="//teaching/2023sumacro/"/>
+      <url>//teaching/2023sumacro/</url>
+      
+        <content type="html"><![CDATA[<center><table><thead><tr><th style="text-align:left"><img src="/teaching/2023sumacro/textbookmgc.png" width="160px"></th><th style="text-align:left"><img src="/teaching/2023sumacro/textbookchi.png" width="160px"></th><th style="text-align:left"><img src="/teaching/2023sumacro/textbook.jpeg" width="160px"></th><th style="text-align:left">西方经济学（第二版，下册宏观经济学部分）。《西方经济学》编写组。高等教育出版社，人民出版社，2019（2021重印）。 <br> <br> 高级宏观经济学（第五版），（美）罗默著，吴化斌/龚关译，上海财经大学出版社，2021。  <br> <br>  <em>Advanced Macroeconomics</em>, 5th Edition. David Romer, 2018. New York: McGraw-Hill Irwin.</th></tr></thead><tbody></tbody></table></center><a id="more"></a><br><ul><li><p>Chapter 5. Download: <a href="/teaching/2023sumacro/ch_5.ppt">slides</a>, <a href="/teaching/2023sumacro/%E6%8E%A8%E5%AF%BC.pdf">推导笔记</a>,<a href="/teaching/2023sumacro/papers.zip">参考论文</a>,<a href="/teaching/2023sumacro/codes_and_figures.zip">codes_and_figures</a>, <a href="/teaching/2023sumacro/ch_5_notes.pdf">notes_1</a>, <a href="/teaching/2023sumacro/ch_6_notes.pdf">notes_2</a>, <a href="/teaching/2023sumacro/ch_7_notes.pdf">notes_3</a>. Homework: 5.3, 5.4, 5.6, 5.14. Due date to be announced.</p></li><li><p>Chapter 4. Download: <a href="/teaching/2023sumacro/ch_4.ppt">slides</a>. No assignments.</p></li><li><p>Chapter 3. Download: <a href="/teaching/2023sumacro/ch_3.ppt">slides</a>. Assignments: 3.1, 3.2, 3.7, 3.11.  Due date: May/22/2023.</p></li><li><p>Chapter 2. Download: <a href="/teaching/2023sumacro/ch_2.ppt">slides</a>, <a href="/teaching/2023sumacro/ch_2_notes.pdf">supplementary notes</a>.  <a href="/teaching/2023sumacro/2022_dp_oc_notes.pdf">动态规划与最优控制入门讲义</a>（不做要求，仅供部分学有余力的同学参考）。Assignments: 2.2, 2.6, 2.9, 2.10, 2.18, 2.19. Due date: May/15/2023.</p></li><li><p>Chapter 1. Download: <a href="/teaching/2023sumacro/ch_1.ppt">slides</a>.Assignments: 1.1, 1.3, 1.4, 1.9, 1.12, 1.13 Due date: April/06/2023.</p></li><li><p>Exams in previous years. 2015：<a href="/teaching/2023sumacro/2015_midterm_1.pdf">Midterm 1</a>，<a href="/teaching/2023sumacro/2015_midterm_2.pdf">Midterm 2</a>，<a href="/teaching/2023sumacro/2015_final.pdf">Final Exam</a>。2016：<a href="/teaching/2023sumacro/2016_midterm_1.pdf">Midterm 1</a>，<a href="/teaching/2023sumacro/2016_midterm_2.pdf">Midterm 2</a>，<a href="/teaching/2023sumacro/2016_final.pdf">Final Exam</a>。2017：<a href="/teaching/2023sumacro/2017_midterm_1.pdf">Midterm 1</a>，<a href="/teaching/2023sumacro/2017_midterm_2.pdf">Midterm 2</a>，<a href="/teaching/2023sumacro/2017_final.pdf">Final Exam</a>。2018：<a href="/teaching/2023sumacro/%E9%99%84%E7%AD%94%E6%A1%88%E7%89%88_midterm_1_2018s.pdf">Midterm 1</a>, <a href="/teaching/2023sumacro/%E9%99%84%E7%AD%94%E6%A1%88%E7%89%88_midterm_2_2018s.pdf">Midterm 2</a>,  <a href="/teaching/2023sumacro/final_exam_2018s.pdf">Final Exam</a>。2019：<a href="/teaching/2023sumacro/2019_midterm_1.pdf">Midterm 1</a>, <a href="/teaching/2023sumacro/2019_midterm_2.pdf">Midterm 2</a>,  <a href="/teaching/2023sumacro/2019_final.pdf">Final Exam</a>。2020：<a href="/teaching/2023sumacro/final_exam_2020s.pdf">Final Exam</a>。2021：<a href="/teaching/2023sumacro/midterm_2021s.pdf">Midterm Exam</a>, <a href="/teaching/2023sumacro/final_exam_2021s.pdf">Final Exam</a></p></li><li><p><a href="/teaching/2023sumacro/Greek_Alphabet.pdf">Greek Alphabet</a>.</p></li><li><p>Download：<a href="/teaching/2023sumacro/syllabus_2023sumacro.pdf">课程大纲</a></p></li></ul><!--以下为注释内容，不会在网页中显示2022年的- [期中考试试卷](/teaching/2023sumacro/midterm_2023.pdf) - Chapter 5. Download: [slides](/teaching/2023sumacro/ch_5.ppt), [推导笔记](/teaching/2023sumacro/推导.pdf),[参考论文](/teaching/2023sumacro/papers.zip),[codes_and_figures](/teaching/2023sumacro/codes_and_figures.zip), [notes_1](/teaching/2023sumacro/ch_5_notes.pdf), [notes_2](/teaching/2023sumacro/ch_6_notes.pdf), [notes_3](/teaching/2023sumacro/ch_7_notes.pdf). Homework: 5.3, 5.4, 5.6, 5.14. Due on June/22.- Chapter 4. Download: [slides](/teaching/2023sumacro/ch_4.ppt).- Chapter 3. Download: [slides](/teaching/2023sumacro/ch_3.ppt). Homework: 3.1, 3.2, 3.7, 3.11.  Due on May/23.  - Chapter 2. Download: [slides](/teaching/2023sumacro/ch_2.ppt), [supplementary notes](/teaching/2023sumacro/ch_2_notes.pdf).  [动态规划与最优控制入门讲义](/teaching/2023sumacro/2021_dp_oc_notes.pdf)（不做要求，仅供部分学有余力的同学参考）。Homework: 2.2, 2.6, 2.9, 2.10, 2.18, 2.20. Due on May/09.- Chapter 1. Download: [slides](/teaching/2023sumacro/ch_1.ppt). Homework: 1.1, 1.3, 1.4, 1.9, 1.12, 1.13. Due on March/23/2023.- Exams in previous years. 2015：[Midterm 1](/teaching/2023sumacro/2015_midterm_1.pdf)，[Midterm 2](/teaching/2023sumacro/2015_midterm_2.pdf)，[Final Exam](/teaching/2023sumacro/2015_final.pdf)。2016：[Midterm 1](/teaching/2023sumacro/2016_midterm_1.pdf)，[Midterm 2](/teaching/2023sumacro/2016_midterm_2.pdf)，[Final Exam](/teaching/2023sumacro/2016_final.pdf)。2017：[Midterm 1](/teaching/2023sumacro/2017_midterm_1.pdf)，[Midterm 2](/teaching/2023sumacro/2017_midterm_2.pdf)，[Final Exam](/teaching/2023sumacro/2017_final.pdf)。2018：[Midterm 1](/teaching/2023sumacro/附答案版_midterm_1_2018s.pdf), [Midterm 2](/teaching/2023sumacro/附答案版_midterm_2_2018s.pdf),  [Final Exam](/teaching/2023sumacro/final_exam_2018s.pdf)。2019：[Midterm 1](/teaching/2023sumacro/2019_midterm_1.pdf), [Midterm 2](/teaching/2023sumacro/2019_midterm_2.pdf),  [Final Exam](/teaching/2023sumacro/2019_final.pdf)。2020：[Final Exam](/teaching/2023sumacro/final_exam_2020s.pdf)。2021：[Midterm Exam](/teaching/2023sumacro/midterm_2021s.pdf), [Final Exam](/teaching/2023sumacro/final_exam_2021s.pdf)-  [Greek Alphabet](/teaching/2023sumacro/Greek_Alphabet.pdf).-  Download：[课程大纲](/teaching/2023sumacro/syllabus_2023sumacro.pdf)2021年的- Chapter 5. Download: [slides](/teaching/2023sumacro/ch_5.ppt), [codes_and_figures](/teaching/2023sumacro/codes_and_figures.zip), [notes_1](/teaching/2023sumacro/ch_5_notes.pdf), [notes_2](/teaching/2023sumacro/ch_6_notes.pdf), [notes_3](/teaching/2023sumacro/ch_7_notes.pdf). Homework: 5.3, 5.4, 5.6, 5.14. -   上机课相关文件下载: [第一次上机课](/teaching/2023sumacro/第一次上机课.zip) ，[第二次上机课](/teaching/2023sumacro/第二次上机课.rar)，[第三次上机课](/teaching/2023sumacro/第三次上机课.rar)- Chapter 4. Download: [slides](/teaching/2023sumacro/ch_4.ppt). Homework: 4.2, 4.3, 4.6, 4.11.  Due on June 03.- Chapter 3. Download: [slides](/teaching/2023sumacro/ch_3.ppt). Homework: 3.1, 3.2, 3.7, 3.11.  Due on  May 25.  - 期中考试地点已确定：东九楼 B203。- Chapter 2. Download: [slides](/teaching/2023sumacro/ch_2.ppt), [supplementary notes](/teaching/2023sumacro/ch_2_notes.pdf).  [动态规划与最优控制入门讲义](/teaching/2023sumacro/2021_dp_oc_notes.pdf)（不做要求，仅供部分学有余力的同学参考）。Homework: 2.2, 2.6, 2.9, 2.10, 2.18, 2.20. Due on April 29.- Chapter 1. Download: [slides](/teaching/2023sumacro/ch_1.ppt). Homework: 1.1, 1.3, 1.4, 1.9, 1.12, 1.13. Due on April 08.-  [Greek Alphabet](/teaching/2023sumacro/Greek_Alphabet.pdf).-  Exams in previous years. 2015：[Midterm 1](/teaching/2023sumacro/2015_midterm_1.pdf)，[Midterm 2](/teaching/2023sumacro/2015_midterm_2.pdf)，[Final Exam](/teaching/2023sumacro/2015_final.pdf)。2016：[Midterm 1](/teaching/2023sumacro/2016_midterm_1.pdf)，[Midterm 2](/teaching/2023sumacro/2016_midterm_2.pdf)，[Final Exam](/teaching/2023sumacro/2016_final.pdf)。2017：[Midterm 1](/teaching/2023sumacro/2017_midterm_1.pdf)，[Midterm 2](/teaching/2023sumacro/2017_midterm_2.pdf)，[Final Exam](/teaching/2023sumacro/2017_final.pdf)。2018：[Midterm 1](/teaching/2023sumacro/附答案版_midterm_1_2018s.pdf), [Midterm 2](/teaching/2023sumacro/附答案版_midterm_2_2018s.pdf),  [Final Exam](/teaching/2023sumacro/final_exam_2018s.pdf)。2019：[Midterm 1](/teaching/2023sumacro/2019_midterm_1.pdf), [Midterm 2](/teaching/2023sumacro/2019_midterm_2.pdf),  [Final Exam](/teaching/2023sumacro/2019_final.pdf)。2020：[Final Exam](/teaching/2023sumacro/final_exam_2020s.pdf)2020 年的：- Download: [第三次上机课相关文件](/teaching/2023sumacro/第三次实验课.rar)- Chapter 5. Download: [slides](/teaching/2023sumacro/ch_5.ppt), [codes_and_figures](/teaching/2023sumacro/codes_and_figures.zip), [notes_1](/teaching/2023sumacro/ch_5_notes.pdf), [notes_2](/teaching/2023sumacro/ch_6_notes.pdf), [notes_3](/teaching/2023sumacro/ch_7_notes.pdf). Homework: 5.3, 5.4, 5.6, 5.14. Due on May 15.- Chapter 4. Download: [slides](/teaching/2023sumacro/ch_4.ppt). Homework: 4.2, 4.3, 4.6, 4.11. Due on April 29. - Chapter 3. Download: [slides](/teaching/2023sumacro/ch_3.ppt). Homework: 3.1, 3.2, 3.7, 3.11.  Due on April 13. -   Download: [第二次上机课相关文件](/teaching/2023sumacro/第二次上机课.rar)    -  Download: [第一次上机课主要操作](/teaching/2023sumacro/第一次上机课主要操作.R)- Chapter 2. Download: [slides](/teaching/2023sumacro/ch_2.ppt), [supplementary notes](/teaching/2023sumacro/ch_2_notes.pdf). Homework: 2.2, 2.6, 2.9, 2.10, 2.18, 2.20. Due on March 23.- Chapter 1. Download: [slides](/teaching/2023sumacro/ch_1.ppt). Homework: 1.1, 1.3, 1.4, 1.9, 1.12, 1.13. Due on March 09.2019年的：-  Chapter 7. Download: [slides](/teaching/2023sumacro/ch_7.ppt),  [supplementary notes](/teaching/2023sumacro/ch_7_notes.pdf)- Chapter 6. Download: [slides](/teaching/2023sumacro/ch_6.ppt),  [supplementary notes](/teaching/2023sumacro/ch_6_notes.pdf). Homework: 6.3, 6.4, 6.5, 6.14, 6.16. Due on June/19/2018.- Download: [Paper Replication Training 4: Regressions in R (2)](/teaching/2023sumacro/第四次实验课.rar).- Download: [Paper Replication Training 3: Plotting in R](/teaching/2023sumacro/第三次实验课.rar).- Download: [Midterm 2](/teaching/2023sumacro/附答案版_midterm_2_2018s.pdf).- Download: [Paper Replication Training 2: Regressions in R (1)](/teaching/2023sumacro/第二次实验课.rar).- Chapter 5. Download: [slides](/teaching/2023sumacro/ch_5.ppt), [codes_and_figures](/teaching/2023sumacro/codes_and_figures.zip), [supplementary_notes_1](/teaching/2023sumacro/ch_5_notes.pdf), [supplementary_notes_2](/teaching/2023sumacro/ch_6_notes.pdf), [supplementary_notes_3](/teaching/2023sumacro/ch_7_notes.pdf). Homework: 5.3, 5.4, 5.6, 5.8, 5.14. Due on June 15.- Download: [Paper Replication Training 1: Introduction to R Language](/teaching/2023sumacro/第一次实验课.zip).- Chapter 4. Download: [slides](/teaching/2023sumacro/ch_4.ppt). Homework: 4.2, 4.3, 4.6, 4.11. Due on May/18/2018.- Download: [Midterm 1](/teaching/2023sumacro/附答案版_midterm_1_2018s.pdf).- Chapter 3. Download: [slides](/teaching/2023sumacro/ch_3.ppt). Homework: 3.1, 3.2, 3.7, 3.11. Due on May/11/2018.- Chapter 2. Download: [slides](/teaching/2023sumacro/ch_2.ppt), [supplementary notes](/teaching/2023sumacro/ch_2_notes.pdf). Homework: 2.2, 2.6, 2.9, 2.10, 2.15, 2.20. Due on April/24/2018.- Chapter 1. Download: [slides](/teaching/2023sumacro/ch_1.ppt). Homework: 1.1, 1.3, 1.4, 1.9, 1.12, 1.13. Due on April/08/2018.-->]]></content>
+      
+      
       <categories>
-        <category>Course</category>
+          
+          <category> Course </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[再听朴树]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2F%2Flife%2Fnfimh%2F</url>
-    <content type="text"><![CDATA[你也曾经追问 然后沉默 渐渐习惯谎言 并以此为荣 因为没有草原 就忘了你是马 你卑微的人生 从不曾犯错的 无聊的人生 能不能 彻底地放开你的手 敢不敢 这么义无反顾坠落 坠入黑暗中 坠入泥土中的海阔天空 就让我 来次透彻心扉的痛 都拿走 让我再次两手空空 只有奄奄一息过 那个真正的我 他才能够诞生]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>再听朴树</title>
+      <link href="//life/nfimh/"/>
+      <url>//life/nfimh/</url>
+      
+        <content type="html"><![CDATA[<br> <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=553534151&auto=1&height=66"></iframe><br> <blockquote><p>你也曾经追问 然后沉默</p><p>渐渐习惯谎言 并以此为荣</p><p>因为没有草原 就忘了你是马</p><p>你卑微的人生</p><p>从不曾犯错的 无聊的人生</p><p>能不能 彻底地放开你的手</p><p>敢不敢 这么义无反顾坠落</p><p>坠入黑暗中</p><p>坠入泥土中的海阔天空</p><p>就让我 来次透彻心扉的痛</p><p>都拿走 让我再次两手空空</p><p>只有奄奄一息过</p><p>那个真正的我 他才能够诞生</p></blockquote>]]></content>
+      
+      
       <categories>
-        <category>Life</category>
+          
+          <category> Life </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[再听 Beyond]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2F%2Flife%2Fbeyond%2F</url>
-    <content type="text"><![CDATA[一生经过彷徨的挣扎 自信可改变未来 问谁又能做到]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>再听 Beyond</title>
+      <link href="//life/beyond/"/>
+      <url>//life/beyond/</url>
+      
+        <content type="html"><![CDATA[<br> <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=346576&auto=1&height=66"></iframe><br> <blockquote><p>一生经过彷徨的挣扎  自信可改变未来</p><p>问谁又能做到</p></blockquote>]]></content>
+      
+      
       <categories>
-        <category>Life</category>
+          
+          <category> Life </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[再听老狼]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2F%2Flife%2Flaolang%2F</url>
-    <content type="text"><![CDATA[你始终不明白，一万个美丽的未来 抵不上一个温暖温暖的现在 你始终不明白，每一个真实的现在 都曾经是你幻想幻想的未来]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>再听老狼</title>
+      <link href="//life/laolang/"/>
+      <url>//life/laolang/</url>
+      
+        <content type="html"><![CDATA[<br> <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=125411&auto=1&height=66"></iframe><br> <blockquote><p>你始终不明白，一万个美丽的未来</p><p>抵不上一个温暖温暖的现在</p><p>你始终不明白，每一个真实的现在</p><p>都曾经是你幻想幻想的未来</p></blockquote>]]></content>
+      
+      
       <categories>
-        <category>Life</category>
+          
+          <category> Life </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[再读王小波]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2F%2Flife%2Fwxb%2F</url>
-    <content type="text"><![CDATA[那一天我二十一岁，在我一生的黄金时代。我有好多奢望。我想爱，想吃，还想在一瞬间变成天上半明半暗的云。后来我才知道，生活就是个缓慢受锤的过程，人一天天老下去，奢望也一天天消失，最后变得像挨了锤的牛一样。可是我过二十一岁生日时没有预见到这一点。我觉得自己会永远生猛下去，什么也锤不了我。 -- 王小波《黄金时代》]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>再读王小波</title>
+      <link href="//life/wxb/"/>
+      <url>//life/wxb/</url>
+      
+        <content type="html"><![CDATA[<br> <blockquote><p>那一天我二十一岁，在我一生的黄金时代。我有好多奢望。我想爱，想吃，还想在一瞬间变成天上半明半暗的云。后来我才知道，生活就是个缓慢受锤的过程，人一天天老下去，奢望也一天天消失，最后变得像挨了锤的牛一样。可是我过二十一岁生日时没有预见到这一点。我觉得自己会永远生猛下去，什么也锤不了我。</p><p>-- 王小波《黄金时代》</p></blockquote>]]></content>
+      
+      
       <categories>
-        <category>Life</category>
+          
+          <category> Life </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[年度计划达成]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2F%2Flife%2Fannualplan%2F</url>
-    <content type="text"><![CDATA[已经记不清有多少个年度计划打了水漂。谁能料到，人生首次完成年度计划，是以这种意想不到的方式：]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>年度计划达成</title>
+      <link href="//life/annualplan/"/>
+      <url>//life/annualplan/</url>
+      
+        <content type="html"><![CDATA[<p>已经记不清有多少个年度计划打了水漂。谁能料到，人生首次完成年度计划，是以这种意想不到的方式：</p> <a id="more"></a><center> <img src="/life/annualplan/1.png" width="400px">  <br> <img src="/life/annualplan/2.jpg" width="400px"> </center>]]></content>
+      
+      
       <categories>
-        <category>Life</category>
+          
+          <category> Life </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[《波兰来客》by 北岛]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2F%2Flife%2Fbllk%2F</url>
-    <content type="text"><![CDATA[那时我们有梦，关于文学，关于爱情，关于穿越世界的旅行。 如今我们深夜饮酒，杯子碰到一起，都是梦破碎的声音。 -- 北岛]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>《波兰来客》by 北岛</title>
+      <link href="//life/bllk/"/>
+      <url>//life/bllk/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>那时我们有梦，关于文学，关于爱情，关于穿越世界的旅行。</p><p>如今我们深夜饮酒，杯子碰到一起，都是梦破碎的声音。</p><p>-- 北岛</p></blockquote>]]></content>
+      
+      
       <categories>
-        <category>Life</category>
+          
+          <category> Life </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[《当我谈跑步时我谈些什么》by 村上春树]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2F%2Flife%2Fcshcsh%2F</url>
-    <content type="text"><![CDATA[闲话休提。我就这样开始了跑步。我当时的年龄是三十三岁，还足够年轻，但不能说是“青年”了。这是耶稣死去的年龄，而斯科特·菲茨杰拉德的凋零从这个年纪就开始了。这也许是人生的一个分水岭。在这样的年龄，我开始了长跑者的生涯，并正式站在了小说家的出发点上——虽然有点晚了。 -- 村上春树]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>《当我谈跑步时我谈些什么》by 村上春树</title>
+      <link href="//life/cshcsh/"/>
+      <url>//life/cshcsh/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>闲话休提。我就这样开始了跑步。我当时的年龄是三十三岁，还足够年轻，但不能说是“青年”了。这是耶稣死去的年龄，而斯科特·菲茨杰拉德的凋零从这个年纪就开始了。这也许是人生的一个分水岭。在这样的年龄，我开始了长跑者的生涯，并正式站在了小说家的出发点上——虽然有点晚了。</p><p>-- 村上春树</p></blockquote><center> <img src="/life/cshcsh/1.jpg" width="400px">  <a id="more"></a> <img src="/life/cshcsh/2.png" width="400px"> </center>]]></content>
+      
+      
       <categories>
-        <category>Life</category>
+          
+          <category> Life </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2019春本科生《博弈论》课程信息]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2F%2Fteaching%2F2019sugt%2F</url>
-    <content type="text"><![CDATA[以下为 2019 年暑期双学位本科生《博弈论》课程信息 幻灯片下载：第三章。 幻灯片下载：第二章。 幻灯片下载：幻灯片 1.3。 幻灯片下载：幻灯片 1.2。 幻灯片下载：幻灯片 1.1。 幻灯片下载：博弈论简介。 下载：课程大纲。 以下为 2019 年春季学期本科生《博弈论》课程信息 幻灯片下载：第三章。 幻灯片下载：第二章。 幻灯片下载：幻灯片 1.3。 幻灯片下载：幻灯片 1.2。 幻灯片下载：幻灯片 1.1。 幻灯片下载：博弈论简介。 下载：课程大纲。]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2019春本科生《博弈论》课程信息</title>
+      <link href="//teaching/2019sugt/"/>
+      <url>//teaching/2019sugt/</url>
+      
+        <content type="html"><![CDATA[<hr><p>以下为 2019 年暑期双学位本科生《博弈论》课程信息</p><ul><li>幻灯片下载：<a href="/teaching/2019sugt/3.pdf">第三章</a>。</li><li>幻灯片下载：<a href="/teaching/2019sugt/2.pdf">第二章</a>。</li><li>幻灯片下载：<a href="/teaching/2019sugt/1.3.pdf">幻灯片 1.3</a>。</li><li>幻灯片下载：<a href="/teaching/2019sugt/1.2.pdf">幻灯片 1.2</a>。</li><li>幻灯片下载：<a href="/teaching/2019sugt/1.1.pdf">幻灯片 1.1</a>。</li><li>幻灯片下载：<a href="/teaching/2019sugt/introduction.pdf">博弈论简介</a>。</li><li>下载：<a href="/teaching/2019sugt/%E6%9A%91%E5%81%87%E5%8F%8C%E5%AD%A6%E4%BD%8D.pdf">课程大纲</a>。</li></ul><hr><p>以下为 2019 年春季学期本科生《博弈论》课程信息</p><ul><li>幻灯片下载：<a href="/teaching/2019sugt/3.pdf">第三章</a>。</li><li>幻灯片下载：<a href="/teaching/2019sugt/2.pdf">第二章</a>。</li><li>幻灯片下载：<a href="/teaching/2019sugt/1.3.pdf">幻灯片 1.3</a>。</li><li>幻灯片下载：<a href="/teaching/2019sugt/1.2.pdf">幻灯片 1.2</a>。</li><li>幻灯片下载：<a href="/teaching/2019sugt/1.1.pdf">幻灯片 1.1</a>。</li><li>幻灯片下载：<a href="/teaching/2019sugt/introduction.pdf">博弈论简介</a>。</li><li>下载：<a href="/teaching/2019sugt/%E5%8D%9A%E5%BC%88%E8%AE%BA2019_%E8%AF%BE%E7%A8%8B%E5%A4%A7%E7%BA%B2.pdf">课程大纲</a>。</li></ul><hr><!--- 下载：[博弈论期末考试附答案](/teaching/2018sugt/期末考试_2018春.pdf)。- 作业：课后习题 4.1，4.2，4.10，4.11。截止时间：6月28日。- 作业：课后习题 3.2，3.4，3.6。截止时间：6月20日课上。- 幻灯片下载： [动态不完全信息博弈](/teaching/2018sugt/4.pptx)。- 下载：[博弈论期中考试附答案](/teaching/2018sugt/博弈论期中考试答案.pdf)。- 幻灯片下载： [静态不完全信息博弈](/teaching/2018sugt/3.pptx)。- 幻灯片下载：[博弈论简介](/teaching/2018sugt/introduction.pdf)。- 课程大纲下载：  * 经济、国贸、统计班上的同学请点击[这里](/teaching/2018sugt/经济国贸统计_博弈论_课程大纲.pdf)。*  下载：[2018年博弈论期中考试附答案](/teaching/2019sugt/博弈论期中考试答案.pdf)，[2018年博弈论期末考试附答案](/teaching/2019sugt/期末考试_2018春.pdf)。-->]]></content>
+      
+      
       <categories>
-        <category>Course</category>
+          
+          <category> Course </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2019春季学期宏观经济研讨班安排]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2F%2Fworkshop%2F2019smwork%2F</url>
-    <content type="text"><![CDATA[本学期宏观研讨班将于每个偶数周的周三举行。地点均为经济学院402室。开始时间为：冬令时段7：00，夏令时段7：30。 研讨班面向所有人开放，并热烈欢迎校内外的老师、同学们来介绍自己的研究（主题不限；理论、应用皆可；微观、宏观框架皆可；统计、数理方法皆可；中文、英文皆可。） 有意者请联系我们：陈亚会 (ashley@hust.edu.cn)，易鸣 (yiming@hust.edu.cn）。 07月03日 周三 7:30PM 经济学院402室 读书汇报。 李玮雪(博士生)、刘威（博士生） 06月19日 周三 7:30PM 经济学院402室 工作论文汇报。 邹建文 (博士生) 06月05日 周三 7:30PM 经济学院402室 工作论文汇报。 王乔 (中南财经政法大学金融学院硕士生) 题目：文化消费能影响老年人健康吗? 摘要：随着老年人生活方式逐渐转型，老年人消费越来越多被注入精神层面的需求，文化类消费逐渐增多，消费升级趋势明显。文化类消费对老年人的健康状况究竟有什么样的影响呢？基于CHARLS2013 和2015 的数据，采用Ordered Probit 模型评估了文化消费对老年人健康的影响。研究结果表明，美容消费对老年人的心理感受有积极的作用，可以缓解老年人烦躁不安的情形，同时对老年人自评健康有积极影响，当老年人增加美容消费时，他们的自评健康程度会提高；对老年人个体各方面满意度有正向影响。旅游消费同美容消费一样，对老年人的心理感受有积极的作用，可以缓解老年人烦躁不安的情形。健身消费，当老年人同时存在四种消费时，增加健身消费，老年人因健康和记忆原因造成的生活上的困难就会增加。娱乐消费对老年人的健康没有显著的影响。综合来看，文化消费对老年人的健康有积极作用，当中老年人的文化消费趋于多元化时，对其自身的健康是有利的。老年人应使自己的消费方式和生活方式多元化，增强自身健康水平，提升生活质量。 下载： 工作论文汇报。 龚长安 (博士生) 题目：国家重点生态功能区设立的环境规制效应研究——以长江生态经济带为例 摘要：国家重点生态功能区通过中央转移支付激励当地政府进行环境保护，是对中国目前环境规制体系的补充，弥补了以前环境规制对生态环境良好地区保护的欠缺。本文以长江生态经济带为例，基于中国工业企业数据库、哥伦比亚大学国际地球科学信息网络中心雾霾数据以及国控监测点水污染数据，使用双重差分倾向得分匹配方法(PSM-DID)方法构造模型，识别国家重点生态功能区设立的环境规制效应。研究发现，长江生态经济带国家重点生态功能区的设立，通过转移支付对地方政府进行财政激励，有效地抑制了当地污染产业的发展，对大气污染治理效果治理明显，阻止了长江经济带生态环境良好的地区成为“污染天堂”，出现了“污染洼地”效应。国家重点生态功能区设立有了初步成效，但是有以下几点问题。长江下游地区国家重点生态功能区环境规制效果不理想，可能形成环境保护的“破窗效应”。对于长江流域尤为重要的水污染治理不透彻，专注于治理考核目标的污染物，而忽视其他污染物的治理。原因在于环境保护提升了地方政府财政债务风险，因此降低了其环境保护的积极性。并且由于缺乏公众参与、平级政府监督以及市场调控，上级政府自上而下的监督考核不具有全面性，导致地方政府选择性进行环境治理。 下载：幻灯片 05月28日 周二 3:30PM 经济学院402室 工作论文汇报。 杨子超 (Ph.D. Candidate at Virginia Tech) Title：Efficiency in the Bitcoin Market Abstract: Previous studies on bitcoin usually treat bitcoin as another conventional asset. In this paper we bring the technology aspect of bitcoin into consideration. We find that the transaction fee in the bitcoin market acts differently from that in the conventional financial market due to the design of the bitcoin mining algorithm. Furthermore, unlike conventional assets, there are hundreds of exchanges around the world trading bitcoin 24/7. This unique phenomenon leads us to define two types of efficiency in the bitcoin market: the efficiency inside a single exchange and the efficiency on the market level. Because of the unique transaction fee mechanism, these two kinds of efficiency do not always move in the same direction. We find that when the bitcoin market becomes active, it improves single exchange efficiency but reduces efficiency on the market level. Download: Slides 05月22日 周三 7:30PM 经济学院402室 工作论文汇报。 杨光 (南开大学经济学院副教授) 题目：政府的研发激励政策、企业的生命周期与持续创新能力——基于国家级企业技术中心名单的分析 摘要：本文首次利用国家发改委公布的2005年至2016年《国家级企业技术中心名单》与上市公司数据进行匹配，研究了企业设立国家级技术中心对其创新绩效的影响，尤其是对企业持续创新能力的影响。研究结果发现，设立国家级技术中心的企业比没有设立该中心的企业平均多出0.3563年的时间处于其专利申请数量高于行业平均值的状态，另外企业的专利申请数量也显著提高。本文通过中介效应分析发现，政府补贴的增加和企业研发支出的增加是导致上述现象的两个重要传导机制，而企业研发支出的增加正是由政府通过设立国家级企业技术中心来引导的。具体来说，政府补贴和企业研发支出分别解释了16.9%和28.8%的企业持续创新能力的增强，也分别解释了20.4%和41.7%的企业专利申请数量增加。另外，本文还发现这两种中介效应会随着企业投资现金流的增加而变大，随着企业经营现金流的增加而变小，而企业的投资现金流和经营现金流是识别企业生命周期的重要指标，因此本文将企业划分为处于成长期、成熟期和衰退期（新周期）等不同的阶段，发现处于成长期和衰退期（新周期）的企业如果设立了国家级企业技术中心将会极大地改善其创新绩效，而处于成熟期的企业效果并不明显，原因是成长期和衰退期（新周期）的企业更有动力去研发新产品和新技术，而处于成熟期的企业仅仅依靠既有产品和技术就可以获得足够的经营现金流，因此研发动力较弱。此外，本文还针对行业异质性进行了拓展分析，结果发现行业竞争程度较高和高科技行业的企业如果设立国家级企业技术中心对于其创新绩效的改善较大，因此政策可以向它们倾斜，最后通过重新衡量企业的创新能力和改变匹配方法说明本文的实证结果是稳健的。 下载： 05月08日 周三7:30PM 经济学院402室 工作论文汇报。 张嘉俊 (硕士研究生) Title: Estimation for spatial dynamic panel data with fixed effects: The case of spatial stability Abstract: We investigate the asymptotic properties of QML estimators of the dynamic SAC panel model when both n and T are large under the condition of space system is stable. We find that when the model both with individual and time effects, the estimators of the transformation approach are similar to that of the individual effects only. For direct approach, the QMLEs have the bias of max(O(1/T), O(1/n)). At this point, transformation approach has advantage over the direct approach especially when n is relatively small. BCQMLEs perform better than QMLEs due to reduce the biases. Ignoring the spatial disturbances correlation may cause the estimators biased and statistical inference failed. An empirical illustration shows the merits of our estimators. When the spatial matrix is endogenous and time-varying, a 2SIV estimation method based on the control function method is more accurate than the QML estimation with exogenous and time-varying spatial matrix and the invariant spatial matrix. Download: 04月24日 周三7:00PM 经济学院402室 2019第一季度宏观经济形势分析 汇报人：冯飞洋，李立新 下载：幻灯片 工作论文汇报。 柯杨敏（华中农业大学 经济管理学院 博士研究生）。 Title: Risk Spillovers between U.S. and Chinese Agricultural Futures Markets: from the Perspective of Decomposed Daily Returns Abstract: This paper examines the risk spillovers effect between U.S. and Chinese agricultural futures markets with three popular commodities, i.e., soybean, sugar and corn, from the prospective of decomposed daily returns. The conditional value at risk (CoVaR) measure is employed, and it is estimated with a dynamic BB1 Copula model. According to a systemic detection and comparison of the risk spillovers through the Kolmogorov-Smirnov bootstrapping test, the leading role of U.S. markets is emphasized while the importance of Chinese markets is also documented. It is notable that the overnight session is the main source of risk spillover comparing with the daytime session. Furtherly, upside risk spillovers are commonly greater than the downside. Finally, risk spillovers of soybean are higher than sugar and sugar is higher than corn. Download: 04月24日 周三7:00PM 经济学院402室 工作论文汇报。 何韵文（清华大学 经济管理学院 博士研究生）。 题目：虚假的富裕 摘要：随着城市人口规模扩大与城市人口密度的提高，住房变得相对稀缺，住房支出份额 是逐渐提高的。这意味着住房与一般工业制造品之间的替代弹性并不是可以完全替代的， 存在刚性的住房需求。研究文献中常用的效用函数均隐含假设住房支出份额是不变的，这 不能反映住房支出份额随城市人口密度提高而提高的现象。本文采用住房支出份额随城市 人口密度提高而提高的效用函数，通过构建包含有内生增长的理论模型进行数值模拟分析 发现，随着城市人口规模，居民名义收入不断提高，但是居民福利呈倒“U”形变化。也就 是说，当城市规模超过某一最优规模之后，随着城市规模的扩大，居民名义收入仍会进一 步扩大，但是居民的实际福利缺在下降。本文定义这种情形下的名义高收入是虚假的富裕 。应用中国的数据进行实证分析，发现中国一些特大城市超过了城市最优规模，其居民名 义上的高收入是虚假的富裕。为此应鼓励大中小城市协调发展。 下载: 03月27日 周三7:00PM 经济学院402室 文献汇报。 魏金宝（博士研究生）。 Title: Runs on Money Market Mutual Funds (by Lawrence Schmidt, Allan Timmermann, and Russ Wermers). Abstract: We study daily money market mutual fund flows at the individual share class level during September 2008. This fine granularity of data allows new insights into investor and portfolio holding characteristics conducive to run risk in cash-like asset pools. We find that cross-sectional flow data observed during the week of the Lehman failure are consistent with key implications of a simple model of coordination with incomplete information and strategic complementarities. Similar conclusions follow from daily models fitted to capture dynamic interactions between investors with differing levels of sophistication within the same money fund, holding constant the underlying portfolio. Download: Paper 03月13日 周三7:00PM 经济学院402室 文献汇报。宋亚军（硕士研究生）。 Title: Public Debt and Interest Rates (by Olivier Blanchard). Abstract: The lecture focuses on the costs of public debt when safe interest rates are low. I develop four main arguments. First, I show that the current U.S. situation in which safe interest rates are expected to remain below growth rates for a long time, is more the historical norm than the exception. If the future is like the past, this implies that debt rollovers, that is the issuance of debt without a later increase in taxes may well be feasible. Put bluntly, public debt may have no ﬁscal cost. Second, even in the absence of ﬁscal costs, public debt reduces capital accumulation, and may therefore have welfare costs. I show that welfare costs may be smaller than typically assumed. The reason is that the safe rate is the risk-adjusted rate of return on capital. If it is lower than the growth rate, it indicates that the risk-adjusted rate of return to capital is in fact low. The average risky rate however also plays a role. I show how both the average risky rate and the average safe rate determine welfare outcomes. Third, I look at the evidence on the average risky rate, i.e. the average marginal product of capital. While the measured rate of earnings has been and is still quite high, the evidence from asset markets suggests that the marginal product of capital may be lower, with the difference reﬂecting either mismeasurement of capital or rents. This matters for debt: The lower the marginal product, the lower the welfare cost of debt. Fourth, I discuss a number of arguments against high public debt, and in particular the existence of multiple equilibria where investors believe debt to be risky and, by requiring a risk premium, increase the ﬁscal burden and make debt effectively more risky, This is a very relevant argument, but it does not have straightforward implications for the appropriate level of debt. My purpose in the lecture is not to argue for more public debt, especially in the current political environment. It is to have a richer discussion of the costs of debt and of ﬁscal policy than is currently the case. Download: Paper 02月28日 周四7:00PM 经济学院402室 假期见闻交流，新学期任务布置。]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2019春季学期宏观经济研讨班安排</title>
+      <link href="//workshop/2019smwork/"/>
+      <url>//workshop/2019smwork/</url>
+      
+        <content type="html"><![CDATA[<p>本学期宏观研讨班将于每个偶数周的周三举行。地点均为经济学院402室。开始时间为：冬令时段7：00，夏令时段7：30。</p><p>研讨班面向所有人开放，并热烈欢迎校内外的老师、同学们来介绍自己的研究（主题不限；理论、应用皆可；微观、宏观框架皆可；统计、数理方法皆可；中文、英文皆可。） 有意者请联系我们：陈亚会 (<a href="mailto:ashley@hust.edu.cn" target="_blank" rel="external">ashley@hust.edu.cn</a>)，易鸣 (<a href="mailto:yiming@hust.edu.cn" target="_blank" rel="external">yiming@hust.edu.cn</a>）。</p><a id="more"></a><hr><h3 id="07月03日-周三-7-30pm-经济学院402室">07月03日 周三 7:30PM 经济学院402室</h3><ol><li>读书汇报。 李玮雪(博士生)、刘威（博士生）</li></ol><hr><h3 id="06月19日-周三-7-30pm-经济学院402室">06月19日 周三 7:30PM 经济学院402室</h3><ol><li>工作论文汇报。 邹建文 (博士生)</li></ol><hr><h3 id="06月05日-周三-7-30pm-经济学院402室">06月05日 周三 7:30PM 经济学院402室</h3><ol><li>工作论文汇报。 王乔 (中南财经政法大学金融学院硕士生)</li></ol><ul><li><p><strong>题目</strong>：文化消费能影响老年人健康吗?</p></li><li><p><strong>摘要</strong>：随着老年人生活方式逐渐转型，老年人消费越来越多被注入精神层面的需求，文化类消费逐渐增多，消费升级趋势明显。文化类消费对老年人的健康状况究竟有什么样的影响呢？基于CHARLS2013 和2015 的数据，采用Ordered Probit 模型评估了文化消费对老年人健康的影响。研究结果表明，美容消费对老年人的心理感受有积极的作用，可以缓解老年人烦躁不安的情形，同时对老年人自评健康有积极影响，当老年人增加美容消费时，他们的自评健康程度会提高；对老年人个体各方面满意度有正向影响。旅游消费同美容消费一样，对老年人的心理感受有积极的作用，可以缓解老年人烦躁不安的情形。健身消费，当老年人同时存在四种消费时，增加健身消费，老年人因健康和记忆原因造成的生活上的困难就会增加。娱乐消费对老年人的健康没有显著的影响。综合来看，文化消费对老年人的健康有积极作用，当中老年人的文化消费趋于多元化时，对其自身的健康是有利的。老年人应使自己的消费方式和生活方式多元化，增强自身健康水平，提升生活质量。</p></li><li><p><strong>下载</strong>：</p></li></ul><ol start="2"><li>工作论文汇报。 龚长安 (博士生)</li></ol><ul><li><p><strong>题目</strong>：国家重点生态功能区设立的环境规制效应研究——以长江生态经济带为例</p></li><li><p><strong>摘要</strong>：国家重点生态功能区通过中央转移支付激励当地政府进行环境保护，是对中国目前环境规制体系的补充，弥补了以前环境规制对生态环境良好地区保护的欠缺。本文以长江生态经济带为例，基于中国工业企业数据库、哥伦比亚大学国际地球科学信息网络中心雾霾数据以及国控监测点水污染数据，使用双重差分倾向得分匹配方法(PSM-DID)方法构造模型，识别国家重点生态功能区设立的环境规制效应。研究发现，长江生态经济带国家重点生态功能区的设立，通过转移支付对地方政府进行财政激励，有效地抑制了当地污染产业的发展，对大气污染治理效果治理明显，阻止了长江经济带生态环境良好的地区成为“污染天堂”，出现了“污染洼地”效应。国家重点生态功能区设立有了初步成效，但是有以下几点问题。长江下游地区国家重点生态功能区环境规制效果不理想，可能形成环境保护的“破窗效应”。对于长江流域尤为重要的水污染治理不透彻，专注于治理考核目标的污染物，而忽视其他污染物的治理。原因在于环境保护提升了地方政府财政债务风险，因此降低了其环境保护的积极性。并且由于缺乏公众参与、平级政府监督以及市场调控，上级政府自上而下的监督考核不具有全面性，导致地方政府选择性进行环境治理。</p></li><li><p><strong>下载</strong>：<a href="/workshop/2019smwork/gca.pptx">幻灯片</a></p></li></ul><hr><h3 id="05月28日-周二-3-30pm-经济学院402室">05月28日 周二 3:30PM 经济学院402室</h3><ol><li>工作论文汇报。 杨子超 (Ph.D. Candidate at Virginia Tech)</li></ol><ul><li><strong>Title</strong>：Efficiency in the Bitcoin Market</li><li><strong>Abstract</strong>: Previous studies on bitcoin usually treat bitcoin as another conventional asset. In this paper we bring the technology aspect of bitcoin into consideration. We find that the transaction fee in the bitcoin market acts differently from that in the conventional financial market due to the design of the bitcoin mining algorithm. Furthermore, unlike conventional assets, there are hundreds of exchanges around the world trading bitcoin 24/7. This unique phenomenon leads us to define two types of efficiency in the bitcoin market: the efficiency inside a single exchange and the efficiency on the market level. Because of the unique transaction fee mechanism, these two kinds of efficiency do not always move in the same direction. We find that when the bitcoin market becomes active, it improves single exchange efficiency but reduces efficiency on the market level.</li><li><strong>Download</strong>: <a href="/workshop/2019smwork/yzc.pdf">Slides</a></li></ul><h3 id="05月22日-周三-7-30pm-经济学院402室">05月22日 周三 7:30PM 经济学院402室</h3><ol><li>工作论文汇报。 杨光 (南开大学经济学院副教授)</li></ol><ul><li><strong>题目</strong>：政府的研发激励政策、企业的生命周期与持续创新能力——基于国家级企业技术中心名单的分析</li><li><strong>摘要</strong>：本文首次利用国家发改委公布的2005年至2016年《国家级企业技术中心名单》与上市公司数据进行匹配，研究了企业设立国家级技术中心对其创新绩效的影响，尤其是对企业持续创新能力的影响。研究结果发现，设立国家级技术中心的企业比没有设立该中心的企业平均多出0.3563年的时间处于其专利申请数量高于行业平均值的状态，另外企业的专利申请数量也显著提高。本文通过中介效应分析发现，政府补贴的增加和企业研发支出的增加是导致上述现象的两个重要传导机制，而企业研发支出的增加正是由政府通过设立国家级企业技术中心来引导的。具体来说，政府补贴和企业研发支出分别解释了16.9%和28.8%的企业持续创新能力的增强，也分别解释了20.4%和41.7%的企业专利申请数量增加。另外，本文还发现这两种中介效应会随着企业投资现金流的增加而变大，随着企业经营现金流的增加而变小，而企业的投资现金流和经营现金流是识别企业生命周期的重要指标，因此本文将企业划分为处于成长期、成熟期和衰退期（新周期）等不同的阶段，发现处于成长期和衰退期（新周期）的企业如果设立了国家级企业技术中心将会极大地改善其创新绩效，而处于成熟期的企业效果并不明显，原因是成长期和衰退期（新周期）的企业更有动力去研发新产品和新技术，而处于成熟期的企业仅仅依靠既有产品和技术就可以获得足够的经营现金流，因此研发动力较弱。此外，本文还针对行业异质性进行了拓展分析，结果发现行业竞争程度较高和高科技行业的企业如果设立国家级企业技术中心对于其创新绩效的改善较大，因此政策可以向它们倾斜，最后通过重新衡量企业的创新能力和改变匹配方法说明本文的实证结果是稳健的。</li><li><strong>下载</strong>：</li></ul><hr><h3 id="05月08日-周三7-30pm-经济学院402室">05月08日 周三7:30PM 经济学院402室</h3><ol><li>工作论文汇报。 张嘉俊 (硕士研究生)</li></ol><ul><li><strong>Title</strong>: Estimation for spatial dynamic panel data with fixed effects: The case ofspatial stability</li><li><strong>Abstract</strong>: We investigate the asymptotic properties of QML estimators of the dynamicSAC panel model when both n and T are large under the condition of space system isstable. We find that when the model both with individual and time effects, theestimators of the transformation approach are similar to that of the individual effectsonly. For direct approach, the QMLEs have the bias of max(O(1/T), O(1/n)). At thispoint, transformation approach has advantage over the direct approach especiallywhen n is relatively small. BCQMLEs perform better than QMLEs due to reduce thebiases. Ignoring the spatial disturbances correlation may cause the estimators biasedand statistical inference failed. An empirical illustration shows the merits of ourestimators. When the spatial matrix is endogenous and time-varying, a 2SIVestimation method based on the control function method is more accurate than theQML estimation with exogenous and time-varying spatial matrix and the invariantspatial matrix.</li><li><strong>Download</strong>:</li></ul><hr><h3 id="04月24日-周三7-00pm-经济学院402室">04月24日 周三7:00PM 经济学院402室</h3><ol><li><p>2019第一季度宏观经济形势分析</p><ul><li>汇报人：冯飞洋，李立新</li><li><strong>下载</strong>：<a href="/workshop/2019smwork/q1.pptx">幻灯片</a></li></ul></li><li><p>工作论文汇报。 柯杨敏（华中农业大学 经济管理学院 博士研究生）。</p><ul><li><strong>Title</strong>: Risk Spillovers between U.S. and Chinese Agricultural Futures Markets: from the Perspective of Decomposed Daily Returns</li><li><strong>Abstract</strong>: This paper examines the risk spillovers effect between U.S. and Chinese agricultural futures markets with three popular commodities, i.e., soybean, sugar and corn, from the prospective of decomposed daily returns. The conditional value at risk (CoVaR) measure is employed, and it is estimated with a dynamic BB1 Copula model. According to a systemic detection and comparison of the risk spillovers through the Kolmogorov-Smirnov bootstrapping test, the leading role of U.S. markets is emphasized while the importance of Chinese markets is also documented. It is notable that the overnight session is the main source of risk spillover comparing with the daytime session. Furtherly, upside risk spillovers are commonly greater than the downside. Finally, risk spillovers of soybean are higher than sugar and sugar is higher than corn.</li><li>Download:</li></ul></li></ol><hr><h3 id="04月24日-周三7-00pm-经济学院402室-v2">04月24日 周三7:00PM 经济学院402室</h3><ol><li>工作论文汇报。 何韵文（清华大学 经济管理学院 博士研究生）。</li></ol><ul><li><strong>题目</strong>：虚假的富裕</li><li><strong>摘要</strong>：随着城市人口规模扩大与城市人口密度的提高，住房变得相对稀缺，住房支出份额是逐渐提高的。这意味着住房与一般工业制造品之间的替代弹性并不是可以完全替代的，存在刚性的住房需求。研究文献中常用的效用函数均隐含假设住房支出份额是不变的，这不能反映住房支出份额随城市人口密度提高而提高的现象。本文采用住房支出份额随城市人口密度提高而提高的效用函数，通过构建包含有内生增长的理论模型进行数值模拟分析发现，随着城市人口规模，居民名义收入不断提高，但是居民福利呈倒“U”形变化。也就是说，当城市规模超过某一最优规模之后，随着城市规模的扩大，居民名义收入仍会进一步扩大，但是居民的实际福利缺在下降。本文定义这种情形下的名义高收入是虚假的富裕。应用中国的数据进行实证分析，发现中国一些特大城市超过了城市最优规模，其居民名义上的高收入是虚假的富裕。为此应鼓励大中小城市协调发展。</li><li><strong>下载</strong>:</li></ul><hr><h3 id="03月27日-周三7-00pm-经济学院402室">03月27日 周三7:00PM 经济学院402室</h3><ol><li>文献汇报。 魏金宝（博士研究生）。</li></ol><ul><li><strong>Title</strong>: Runs on Money Market Mutual Funds (by <em>Lawrence Schmidt, Allan Timmermann</em>, and <em>Russ Wermers</em>).</li><li><strong>Abstract</strong>: We study daily money market mutual fund flows at the individual share class level during September 2008. This fine granularity of data allows new insights into investor and portfolio holding characteristics conducive to run risk in cash-like asset pools. We find that cross-sectional flow data observed during the week of the Lehman failure are consistent with key implications of a simple model of coordination with incomplete information and strategic complementarities. Similar conclusions follow from daily models fitted to capture dynamic interactions between investors with differing levels of sophistication within the same money fund, holding constant the underlying portfolio.</li><li><strong>Download</strong>: <a href="/workshop/2019smwork/wjb.pdf">Paper</a></li></ul><hr><h3 id="03月13日-周三7-00pm-经济学院402室">03月13日 周三7:00PM 经济学院402室</h3><ol><li>文献汇报。宋亚军（硕士研究生）。</li></ol><ul><li><strong>Title</strong>: Public Debt and Interest Rates (by <em>Olivier Blanchard</em>).</li><li><strong>Abstract</strong>: The lecture focuses on the costs of public debt when safe interest rates are low.I develop four main arguments. First, I show that the current U.S. situation in whichsafe interest rates are expected to remain below growth rates for a long time, is morethe historical norm than the exception. If the future is like the past, this implies thatdebt rollovers, that is the issuance of debt without a later increase in taxes may wellbe feasible. Put bluntly, public debt may have no ﬁscal cost. Second, even in theabsence of ﬁscal costs, public debt reduces capital accumulation, and may thereforehave welfare costs. I show that welfare costs may be smaller than typically assumed.The reason is that the safe rate is the risk-adjusted rate of return on capital. If it islower than the growth rate, it indicates that the risk-adjusted rate of return to capital isin fact low. The average risky rate however also plays a role. I show how both theaverage risky rate and the average safe rate determine welfare outcomes. Third, I lookat the evidence on the average risky rate, i.e. the average marginal product of capital.While the measured rate of earnings has been and is still quite high, the evidence fromasset markets suggests that the marginal product of capital may be lower, with thedifference reﬂecting either mismeasurement of capital or rents. This matters for debt:The lower the marginal product, the lower the welfare cost of debt. Fourth, I discuss anumber of arguments against high public debt, and in particular the existence ofmultiple equilibria where investors believe debt to be risky and, by requiring a riskpremium, increase the ﬁscal burden and make debt effectively more risky, This is avery relevant argument, but it does not have straightforward implications for theappropriate level of debt. My purpose in the lecture is not to argue for more publicdebt, especially in the current political environment. It is to have a richer discussion ofthe costs of debt and of ﬁscal policy than is currently the case.</li><li><strong>Download</strong>: <a href="/workshop/2019smwork/syj.pdf">Paper</a></li></ul><hr><h3 id="02月28日-周四7-00pm-经济学院402室">02月28日 周四7:00PM 经济学院402室</h3><ol><li>假期见闻交流，新学期任务布置。</li></ol><hr>]]></content>
+      
+      
       <categories>
-        <category>Workshop &amp; Seminar</category>
+          
+          <category> Workshop &amp; Seminar </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018秋博士生《高级宏观经济学》课程信息]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2F%2Fteaching%2F2018fdmacro%2F</url>
-    <content type="text"><![CDATA[本学期博士生高级宏观课程11月1日——11月29日间讲义下载：Lecture Notes。 布置一次作业，截止日期为12月5日。作业下载：Homework。 作业需要使用计算软件。这里提供 Python 和 Matlab脚本程序的模板下载：Matlab codes, Python codes。请注意各文件中置顶的注释部分： 123456# To run this script in Ptyhon, you should make sure that # both matplotlib and numpy modules are pre-installed.# This file should serve only as a template for you to start working.# So I intentionally added quite a few mistakes (but not syntax errors)# into this file, to make sure that nobody can just copy # all the codes to her software and get correct results. 1234% codes in Matlab for (a)-(c) of the Dynamic Programming homework. % I intentionally added quite a few mistakes (but not syntax errors)% into this file, to make sure that nobody can just copy % all the codes to her software and get correct results.]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2018秋博士生《高级宏观经济学》课程信息</title>
+      <link href="//teaching/2018fdmacro/"/>
+      <url>//teaching/2018fdmacro/</url>
+      
+        <content type="html"><![CDATA[<ul><li><p>本学期博士生高级宏观课程11月1日——11月29日间讲义下载：<a href="/teaching/2018fdmacro/2018_dp_oc_notes.pdf">Lecture Notes</a>。</p></li><li><p>布置一次作业，截止日期为12月5日。作业下载：<a href="/teaching/2018fdmacro/2018_dp_homework.pdf">Homework</a>。</p></li><li><p>作业需要使用计算软件。这里提供 Python 和 Matlab脚本程序的模板下载：<a href="/teaching/2018fdmacro/2018_matlab_codes_template.zip">Matlab codes</a>, <a href="/teaching/2018fdmacro/2018_python_codes_template.py">Python codes</a>。请注意各文件中置顶的注释部分：</p></li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"># To run this script in Ptyhon, you should make sure that </div><div class="line"># both matplotlib and numpy modules are pre-installed.</div><div class="line"># This file should serve only as a template for you to start working.</div><div class="line"># So I intentionally added quite a few mistakes (but not syntax errors)</div><div class="line"># into this file, to make sure that nobody can just copy </div><div class="line"># all the codes to her software and get correct results.</div></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">% codes in Matlab for (a)-(c) of the Dynamic Programming homework. </div><div class="line">% I intentionally added quite a few mistakes (but not syntax errors)</div><div class="line">% into this file, to make sure that nobody can just copy </div><div class="line">% all the codes to her software and get correct results.</div></pre></td></tr></table></figure>]]></content>
+      
+      
       <categories>
-        <category>Course</category>
+          
+          <category> Course </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018秋季学期宏观经济研讨班安排]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2F%2Fworkshop%2F2018fmwork%2F</url>
-    <content type="text"><![CDATA[本学期宏观研讨班将于每个偶数数周的周四举行。地点均为经济学院402室。开始时间为：冬令时段7：00，夏令时段7：30。 研讨班面向所有人开放，并热烈欢迎校内外的老师、同学们来介绍自己的研究（主题不限；理论、应用皆可；微观、宏观框架皆可；统计、数理方法皆可；中文、英文皆可。） 有意者请联系我们：陈亚会 (ashley@hust.edu.cn)，易鸣 (yiming@hust.edu.cn）。 2019年01月03日 7:00PM 经济学院402室 文献介绍。陶爽 Title: &quot;Trade Induced Technical Change? The Impact of Chinese Imports on Innovation, IT and Productivity&quot; by Nicholas Bloom, Mirko Draca, and John Van Reenen. Abstract: We examine the impact of Chinese import competition on broad measures of technical change—patenting, IT, and TFP—using new panel data across twelve European countries from 1996 to 2007. In particular, we establish that the absolute volume of innovation increases within the firms most affected by Chinese imports in their output markets. We correct for endogeneity using the removal of product-specific quotas following China’s entry into the World Trade Organization in 2001. Chinese import competition led to increased technical change within firms and reallocated employment between firms towards more technologically advanced firms. These within and between effects were about equal in magnitude, and account for 14% of European technology upgrading over 2000–7 (and even more when we allow for offshoring to China). Rising Chinese import competition also led to falls in employment and the share of unskilled workers. In contrast to low-wage nations like China, developed countries had no significant effect on innovation Download: paper slides 12月20日 7:00PM 经济学院402室 工作论文汇报。邹建文 题目: 为医疗而储蓄——时间不一致下的生命周期模型 摘要: 中国居民面临的各种风险是引起中国消费不足和高储蓄率的重要原因，现有的对预防性储蓄的研究往往注重收入风险，而忽视医疗支出风险，同时忽略了行为经济学的因素。本文基于生命周期理论分析中国老年居民的消费储蓄行为，建立了一个带有医疗支出风险和时间不一致的消费—储蓄生命周期模型。基于对模型的结构估计，本文进行了一系列反事实模拟，研究表明：医疗支出风险和遗赠动机解释了绝大部分的中国老年居民的储蓄行为，在时间不一致下，医疗支出风险和遗赠动机的解释能力更强。本文的研究深化了对中国老年人消费储蓄行为的理解，为最低生活保障、医疗保险等社会保障政策的制定提供了依据。 评论人： 下载: 幻灯片 12月06日 7:00PM 经济学院402室 工作论文汇报。 赵菲菲 题目: 环境规制是否促进了企业迁移？—来自于中国制造业上市公司的经验证据 摘要: 近年来，如何以企业为支撑破解环境约束，促进环境保护与经济发展相融合，引领中国经济向高质量发展阶段迈进成为社会各界关注的焦点。本文以中国2002年底《大气污染防治重点城市规划方案》的出台作为识别环境政策的准实验机会，运用双重差分方法分析环境规制对企业迁移行为的具体影响及传导机制。研究发现：①在样本期内，与对照组相比，环境政策冲击引起处理组企业迁移行为显著增强，且具有动态递增的特征，企业个体特征、城市特征均显著影响环境规制企业迁移效应的发挥；②企业所有制属性、企业全要素生产率的高低以及企业所在地方政府的环境偏好均显著影响当地企业的迁移行为；③环境规制主要通过对企业中间成本以及管理费用的影响，间接促进企业迁移行为的发生。因此，本文验证了环境规制企业迁移效应的存在，厘清了影响其作用发挥的主要影响因素以及作用机制，有助于为进一步引导企业合理有序迁移，促进环境保护与经济协调发展具有重要的借鉴意义。 评论人： 下载: 幻灯片 11月22日 7:00PM 经济学院402室 文献介绍。 李玮雪 Title: &quot;The Impact of Corporate Taxes on Firm Innovation: Evidence from the Corporate Tax Collection Reform in China&quot; by Jing Cai, Yuyu Chen, and Xuan Wang. Abstract: This paper exploits a tax reform on manufacturing firms in China to study the impact of taxes on firm innovation. The reform switched the corporate income tax collection from the local to the state tax bureau and reduced the effective tax rate by 10%. The reform only applied to firms established after January 2002, allowing us to use regression discontinuity design as the identification strategy. The results show that lower taxes improved both quantity and quality of firm innovation. Moreover, the reform has a bigger impact on firms that are financially constrained and firms that engage more in tax evasion. 评论人：魏铃洁、崔美琪 下载: 论文 11月8日 7:00PM 经济学院402室 工作论文汇报。 李杰伟（上海海事大学讲师） 题目: 互联网、人口规模与经济增长：来自城市的视角 摘要: 本文利用2002-2015年地市级面板数据考察了互联网宽带与中国城市经济增长之间的关系以及人口规模的异质性影响，并在此基础上从渗透率与人口规模两个维度，改进了对网络效应和区域差异的研究。为了缓解内生性问题，我们构造了三个工具变量，分别是利用了相对外生的初始电话网络并刻画了互联网非线性扩散的logistic曲线、周围城市的平均渗透率和同省其它城市的平均渗透率，并对结果进行检验。研究发现，第一，平均而言，互联网对中国城市经济的增长不存在显著的促进作用，但是人口规模越大的城市促进作用越大，在人口大约超过300万的城市，互联网对经济增长的影响为正；第二，在城市层面，互联网具有网络效应的特征，它对经济增长的促进作用随使用规模的增加而增强，网络效应的结果可以解释区域差异的来源以及人口规模强化互联网促进经济增长的作用。结果表明即使在平均渗透率低的中西部，互联网对其大城市经济的促进作用仍大于平均渗透率高的东部的小城市。本文的研究认为在城市或者城市圈层次上进行互联网行业的基础设施投资并放松人口流动可以兼顾效率和地区的平衡发展。 评论人：邹建文、李玮雪 10月25日 7:00PM 经济学院402室 论文汇报。 郭晨 题目: 机会不平等、努力不平等与住房价格 —基于阿马蒂亚·森的饥荒理论分析 摘要: 收入不平等是否加剧住房价格上涨？目前国内外学者持不同观点。本文将收入不平等分解为机会不平等以及努力不平等，分别研究对住房价格的影响。理论方面，以阿马蒂亚·森饥荒理论作为分析框架，进行理论分析。实证方面，基于2010-2013&amp;2015年CGSS与城市面板数据进行实证回归检验。研究发现，①机会不平等促进房价上涨。②努力不平等并未推动房价上涨。③实证结果表明当前收入不平等并未推动中国房价上涨。所以应提高收入不平等中努力不平等占比，以实现兼顾中国特色社会主义市场经济“公平”与“效率”原则下，有效控制住房价格的目标。 评论人： 下载: 幻灯片 第二、三季度的宏观经济形势汇报。 汇报人：刘璐涛、徐睿涵 10月11日 7:00PM 经济学院402室 工作论文汇报。 李君华（湖北经济学院教授） 题目: 储蓄率、内生的资本大国效应和要素禀赋结构——经济结构转型的一般均衡分析 摘要: 尽管一国初始资本存量和上一期资本存量是给定的，但其当期和未来资本存量中的新增投资仍然内生于储蓄率和资本品生产技术的进步。由高技术创新所支持的最优储蓄率会提高一国资本存量水平，促进该国要素禀赋结构发生变化，进而通过要素相对价格的变化促使该国经济结构从土地密集型产业向资本密集型产业转型。不过，较高的储蓄率通常会对该国当期和接下来一段时间内的消费和人均福利形成挤压。但是，如果该国资本品生产技术和创新程度较高，其储蓄就能形成更多的新增投资和生产能力，由此支持该国经济结构高效转型，使该国未来GDP和人均福利迅速增长。通常，较高的资本品生产技术和创新程度可以支持更高的最优储蓄率。 评论人： 下载: 论文 9月27日 7:30PM 经济学院402室 工作论文汇报。 陈茜（经济系讲师） Title: Social Norms and Female Labor Force Participation in Urban China Abstract：This study investigates the impact of social norms on the labor supply decision of married women in urban China. Our estimation results indicate that men raised by non-working mothers are more likely to support traditional gender roles, are more averse to having working wives, and tend to be less productive or less willing to engage in housework than other men. Consequently, the labor force participation rate of married women with non-working mothers-in-law is 5–18 percentage points lower than that of married women with working mothers-in-law in urban China. 评论人： 下载: 幻灯片, 论文]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2018秋季学期宏观经济研讨班安排</title>
+      <link href="//workshop/2018fmwork/"/>
+      <url>//workshop/2018fmwork/</url>
+      
+        <content type="html"><![CDATA[<p>本学期宏观研讨班将于每个偶数数周的周四举行。地点均为经济学院402室。开始时间为：冬令时段7：00，夏令时段7：30。</p><p>研讨班面向所有人开放，并热烈欢迎校内外的老师、同学们来介绍自己的研究（主题不限；理论、应用皆可；微观、宏观框架皆可；统计、数理方法皆可；中文、英文皆可。） 有意者请联系我们：陈亚会 (<a href="mailto:ashley@hust.edu.cn" target="_blank" rel="external">ashley@hust.edu.cn</a>)，易鸣 (<a href="mailto:yiming@hust.edu.cn" target="_blank" rel="external">yiming@hust.edu.cn</a>）。</p><a id="more"></a><hr><h3 id="2019年01月03日-7-00pm-经济学院402室">2019年01月03日 7:00PM 经济学院402室</h3><ol><li>文献介绍。陶爽</li></ol><ul><li><strong>Title</strong>: &quot;Trade Induced Technical Change? The Impact of Chinese Imports on Innovation, IT and Productivity&quot; by <em>Nicholas Bloom, Mirko Draca</em>, and <em>John Van Reenen</em>.</li><li><strong>Abstract</strong>: We examine the impact of Chinese import competition on broad measures of technical change—patenting, IT, and TFP—using new panel data across twelve European countries from 1996 to 2007. In particular, we establish that the absolute volume of innovation increases within the firms most affected by Chinese imports in their output markets. We correct for endogeneity using the removal of product-specific quotas following China’s entry into the World Trade Organization in 2001. Chinese import competition led to increased technical change within firms and reallocated employment between firms towards more technologically advanced firms. These within and between effects were about equal in magnitude, and account for 14% of European technology upgrading over 2000–7 (and even more when we allow for offshoring to China). Rising Chinese import competition also led to falls in employment and the share of unskilled workers. In contrast to low-wage nations like China, developed countries had no significant effect on innovation</li><li><strong>Download</strong>:  <a href="/workshop/2018fmwork/ts.pdf">paper</a> <a href="/workshop/2018fmwork/taoshuang.pdf">slides</a></li></ul><h3 id="12月20日-7-00pm-经济学院402室">12月20日 7:00PM 经济学院402室</h3><ol><li>工作论文汇报。邹建文</li></ol><ul><li><strong>题目</strong>: 为医疗而储蓄——时间不一致下的生命周期模型</li><li><strong>摘要</strong>: 中国居民面临的各种风险是引起中国消费不足和高储蓄率的重要原因，现有的对预防性储蓄的研究往往注重收入风险，而忽视医疗支出风险，同时忽略了行为经济学的因素。本文基于生命周期理论分析中国老年居民的消费储蓄行为，建立了一个带有医疗支出风险和时间不一致的消费—储蓄生命周期模型。基于对模型的结构估计，本文进行了一系列反事实模拟，研究表明：医疗支出风险和遗赠动机解释了绝大部分的中国老年居民的储蓄行为，在时间不一致下，医疗支出风险和遗赠动机的解释能力更强。本文的研究深化了对中国老年人消费储蓄行为的理解，为最低生活保障、医疗保险等社会保障政策的制定提供了依据。</li><li><strong>评论人</strong>：</li><li><strong>下载</strong>: <a href="/workshop/2018fmwork/zjw.pdf">幻灯片</a></li></ul><hr><h3 id="12月06日-7-00pm-经济学院402室">12月06日 7:00PM 经济学院402室</h3><ol><li>工作论文汇报。 赵菲菲</li></ol><ul><li><strong>题目</strong>:  环境规制是否促进了企业迁移？—来自于中国制造业上市公司的经验证据</li><li><strong>摘要</strong>: 近年来，如何以企业为支撑破解环境约束，促进环境保护与经济发展相融合，引领中国经济向高质量发展阶段迈进成为社会各界关注的焦点。本文以中国2002年底《大气污染防治重点城市规划方案》的出台作为识别环境政策的准实验机会，运用双重差分方法分析环境规制对企业迁移行为的具体影响及传导机制。研究发现：①在样本期内，与对照组相比，环境政策冲击引起处理组企业迁移行为显著增强，且具有动态递增的特征，企业个体特征、城市特征均显著影响环境规制企业迁移效应的发挥；②企业所有制属性、企业全要素生产率的高低以及企业所在地方政府的环境偏好均显著影响当地企业的迁移行为；③环境规制主要通过对企业中间成本以及管理费用的影响，间接促进企业迁移行为的发生。因此，本文验证了环境规制企业迁移效应的存在，厘清了影响其作用发挥的主要影响因素以及作用机制，有助于为进一步引导企业合理有序迁移，促进环境保护与经济协调发展具有重要的借鉴意义。</li><li><strong>评论人</strong>：</li><li><strong>下载</strong>: <a href="/workshop/2018fmwork/zff.pdf">幻灯片</a></li></ul><hr><h3 id="11月22日-7-00pm-经济学院402室">11月22日 7:00PM 经济学院402室</h3><ol><li>文献介绍。 李玮雪</li></ol><ul><li><p><strong>Title</strong>: &quot;The Impact of Corporate Taxes on Firm Innovation: Evidence from the Corporate Tax Collection Reform in China&quot; by <em>Jing Cai, Yuyu Chen</em>, and <em>Xuan Wang</em>.</p></li><li><p><strong>Abstract</strong>: This paper exploits a tax reform on manufacturing firms in China to study the impact of taxes on firm innovation. The reform switched the corporate income tax collection from the local to the state tax bureau and reduced the effective tax rate by 10%. The reform only applied to firms established after January 2002, allowing us to use regression discontinuity design as the identification strategy. The results show that lower taxes improved both quantity and quality of firm innovation. Moreover, the reform has a bigger impact on firms that are financially constrained and firms that engage more in tax evasion.</p></li><li><p><strong>评论人</strong>：魏铃洁、崔美琪</p></li><li><p><strong>下载</strong>:  <a href="/workshop/2018fmwork/lwx.pdf">论文</a></p></li></ul><hr><h3 id="11月8日-7-00pm-经济学院402室">11月8日 7:00PM 经济学院402室</h3><ol><li>工作论文汇报。 李杰伟（上海海事大学讲师）</li></ol><ul><li><strong>题目</strong>: 互联网、人口规模与经济增长：来自城市的视角</li><li><strong>摘要</strong>: 本文利用2002-2015年地市级面板数据考察了互联网宽带与中国城市经济增长之间的关系以及人口规模的异质性影响，并在此基础上从渗透率与人口规模两个维度，改进了对网络效应和区域差异的研究。为了缓解内生性问题，我们构造了三个工具变量，分别是利用了相对外生的初始电话网络并刻画了互联网非线性扩散的logistic曲线、周围城市的平均渗透率和同省其它城市的平均渗透率，并对结果进行检验。研究发现，第一，平均而言，互联网对中国城市经济的增长不存在显著的促进作用，但是人口规模越大的城市促进作用越大，在人口大约超过300万的城市，互联网对经济增长的影响为正；第二，在城市层面，互联网具有网络效应的特征，它对经济增长的促进作用随使用规模的增加而增强，网络效应的结果可以解释区域差异的来源以及人口规模强化互联网促进经济增长的作用。结果表明即使在平均渗透率低的中西部，互联网对其大城市经济的促进作用仍大于平均渗透率高的东部的小城市。本文的研究认为在城市或者城市圈层次上进行互联网行业的基础设施投资并放松人口流动可以兼顾效率和地区的平衡发展。</li><li><strong>评论人</strong>：邹建文、李玮雪</li></ul><hr><h3 id="10月25日-7-00pm-经济学院402室">10月25日 7:00PM 经济学院402室</h3><ol><li>论文汇报。 郭晨</li></ol><ul><li><p><strong>题目</strong>:   机会不平等、努力不平等与住房价格 —基于阿马蒂亚·森的饥荒理论分析</p></li><li><p><strong>摘要</strong>: 收入不平等是否加剧住房价格上涨？目前国内外学者持不同观点。本文将收入不平等分解为机会不平等以及努力不平等，分别研究对住房价格的影响。理论方面，以阿马蒂亚·森饥荒理论作为分析框架，进行理论分析。实证方面，基于2010-2013&amp;2015年CGSS与城市面板数据进行实证回归检验。研究发现，①机会不平等促进房价上涨。②努力不平等并未推动房价上涨。③实证结果表明当前收入不平等并未推动中国房价上涨。所以应提高收入不平等中努力不平等占比，以实现兼顾中国特色社会主义市场经济“公平”与“效率”原则下，有效控制住房价格的目标。</p></li><li><p><strong>评论人</strong>：</p></li><li><p><strong>下载</strong>: <a href="/workshop/2018fmwork/%E9%83%AD%E6%99%A8.ppt">幻灯片</a></p></li></ul><ol start="2"><li>第二、三季度的宏观经济形势汇报。  汇报人：刘璐涛、徐睿涵</li></ol><hr><h3 id="10月11日-7-00pm-经济学院402室">10月11日 7:00PM 经济学院402室</h3><ol><li>工作论文汇报。 李君华（湖北经济学院教授）</li></ol><ul><li><strong>题目</strong>:  储蓄率、内生的资本大国效应和要素禀赋结构——经济结构转型的一般均衡分析</li><li><strong>摘要</strong>: 尽管一国初始资本存量和上一期资本存量是给定的，但其当期和未来资本存量中的新增投资仍然内生于储蓄率和资本品生产技术的进步。由高技术创新所支持的最优储蓄率会提高一国资本存量水平，促进该国要素禀赋结构发生变化，进而通过要素相对价格的变化促使该国经济结构从土地密集型产业向资本密集型产业转型。不过，较高的储蓄率通常会对该国当期和接下来一段时间内的消费和人均福利形成挤压。但是，如果该国资本品生产技术和创新程度较高，其储蓄就能形成更多的新增投资和生产能力，由此支持该国经济结构高效转型，使该国未来GDP和人均福利迅速增长。通常，较高的资本品生产技术和创新程度可以支持更高的最优储蓄率。</li><li><strong>评论人</strong>：</li><li><strong>下载</strong>: <a href="/workshop/2018fmwork/%E6%9D%8E%E5%90%9B%E5%8D%8E.pdf">论文</a></li></ul><hr><h3 id="9月27日-7-30pm-经济学院402室">9月27日 7:30PM 经济学院402室</h3><ol><li>工作论文汇报。 陈茜（经济系讲师）</li></ol><ul><li><strong>Title</strong>:  Social Norms and Female Labor Force Participation in Urban China</li><li><strong>Abstract</strong>：This study investigates the impact of social norms on the laborsupply decision of married women in urban China. Our estimationresults indicate that men raised by non-working mothers are morelikely to support traditional gender roles, are more averse to havingworking wives, and tend to be less productive or less willing toengage in housework than other men. Consequently, the labor forceparticipation rate of married women with non-working mothers-in-lawis 5–18 percentage points lower than that of married women withworking mothers-in-law in urban China.</li><li><strong>评论人</strong>：</li><li><strong>下载</strong>: <a href="/workshop/2018fmwork/chenxi_slides.pdf">幻灯片</a>, <a href="/workshop/2018fmwork/chenxi_paper.pdf">论文</a></li></ul><hr>]]></content>
+      
+      
       <categories>
-        <category>Workshop &amp; Seminar</category>
+          
+          <category> Workshop &amp; Seminar </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018秋研究生《应用博弈论》课程信息]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2F%2Fteaching%2F2018fggt%2F</url>
-    <content type="text"><![CDATA[Homework 3. Homework 2. Homework 1. 博弈论简介。 课程大纲下载。]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2018秋研究生《应用博弈论》课程信息</title>
+      <link href="//teaching/2018fggt/"/>
+      <url>//teaching/2018fggt/</url>
+      
+        <content type="html"><![CDATA[<hr><ul><li><a href="/teaching/2018fggt/Homework_3.pdf">Homework 3</a>.</li><li><a href="/teaching/2018fggt/Homework_2.pdf">Homework 2</a>.</li><li><a href="/teaching/2018fggt/Homework_1.pdf">Homework 1</a>.</li><li><a href="/teaching/2018fggt/introduction.pdf">博弈论简介</a>。</li><li><a href="/teaching/2018fggt/2018%E7%A7%8B_%E7%A0%94%E7%A9%B6%E7%94%9F_%E5%8D%9A%E5%BC%88%E8%AE%BA_%E8%AF%BE%E7%A8%8B%E5%A4%A7%E7%BA%B2.pdf">课程大纲下载</a>。</li></ul><a id="more"></a><hr>]]></content>
+      
+      
       <categories>
-        <category>Course</category>
+          
+          <category> Course </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018春、夏本科生《博弈论》课程信息]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2F%2Fteaching%2F2018sugt%2F</url>
-    <content type="text"><![CDATA[以下信息针对暑期双学位班： 幻灯片5：动态不完全信息博弈。 幻灯片4：静态不完全信息博弈。 幻灯片3：动态完全信息博弈。 幻灯片2：静态完全信息博弈。 幻灯片1：博弈论简介。 下载：课程大纲。 以下信息针对春季学期： 作业：课后习题 4.1，4.2，4.10，4.11。截止时间：6月28日。 作业：课后习题 3.2，3.4，3.6。截止时间：6月20日课上。 幻灯片下载： 动态不完全信息博弈。 下载：博弈论期中考试附答案。 幻灯片下载： 静态不完全信息博弈。 幻灯片下载：博弈论简介。 课程大纲下载： 经济、国贸、统计班上的同学请点击这里。 金融、金工班上的同学请点击这里。]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2018春、夏本科生《博弈论》课程信息</title>
+      <link href="//teaching/2018sugt/"/>
+      <url>//teaching/2018sugt/</url>
+      
+        <content type="html"><![CDATA[<hr><p>以下信息针对暑期双学位班：</p><ul><li>幻灯片5：<a href="/teaching/2018sugt/4.pptx">动态不完全信息博弈</a>。</li><li>幻灯片4：<a href="/teaching/2018sugt/3.pptx">静态不完全信息博弈</a>。</li><li>幻灯片3：<a href="/teaching/2018sugt/%E5%8A%A8%E6%80%81%E5%AE%8C%E5%85%A8%E4%BF%A1%E6%81%AF%E5%8D%9A%E5%BC%88.pptx">动态完全信息博弈</a>。</li><li>幻灯片2：<a href="/teaching/2018sugt/%E9%9D%99%E6%80%81%E5%AE%8C%E5%85%A8%E4%BF%A1%E6%81%AF%E5%8D%9A%E5%BC%88.pptx">静态完全信息博弈</a>。</li><li>幻灯片1：<a href="/teaching/2018sugt/introduction.pdf">博弈论简介</a>。</li><li>下载：<a href="/teaching/2018sugt/%E6%9A%91%E5%81%87%E5%8F%8C%E5%AD%A6%E4%BD%8D.pdf">课程大纲</a>。</li></ul><a id="more"></a><hr><p>以下信息针对春季学期：</p><ul><li>作业：课后习题 4.1，4.2，4.10，4.11。截止时间：6月28日。</li><li>作业：课后习题 3.2，3.4，3.6。截止时间：6月20日课上。</li><li>幻灯片下载： <a href="/teaching/2018sugt/4.pptx">动态不完全信息博弈</a>。</li><li>下载：<a href="/teaching/2018sugt/%E5%8D%9A%E5%BC%88%E8%AE%BA%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E7%AD%94%E6%A1%88.pdf">博弈论期中考试附答案</a>。</li><li>幻灯片下载： <a href="/teaching/2018sugt/3.pptx">静态不完全信息博弈</a>。</li><li>幻灯片下载：<a href="/teaching/2018sugt/introduction.pdf">博弈论简介</a>。</li><li>课程大纲下载：<ul><li>经济、国贸、统计班上的同学请点击<a href="/teaching/2018sugt/%E7%BB%8F%E6%B5%8E%E5%9B%BD%E8%B4%B8%E7%BB%9F%E8%AE%A1_%E5%8D%9A%E5%BC%88%E8%AE%BA_%E8%AF%BE%E7%A8%8B%E5%A4%A7%E7%BA%B2.pdf">这里</a>。</li><li>金融、金工班上的同学请点击<a href="/teaching/2018sugt/%E9%87%91%E8%9E%8D%E9%87%91%E5%B7%A5_%E5%8D%9A%E5%BC%88%E8%AE%BA_%E8%AF%BE%E7%A8%8B%E5%A4%A7%E7%BA%B2.pdf">这里</a>。</li></ul></li></ul><hr><!--- 下载：[博弈论期末考试附答案](/teaching/2018sugt/期末考试_2018春.pdf)。-->]]></content>
+      
+      
       <categories>
-        <category>Course</category>
+          
+          <category> Course </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018春季学期宏观经济研讨班安排]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2F%2Fworkshop%2F2018smwork%2F</url>
-    <content type="text"><![CDATA[本学期宏观研讨班将于每个奇数周举行。前两次研讨安排在周四晚上，后面的研讨都安排在周二晚上。地点均为经济学院402室。开始时间为：冬令时段7：00，夏令时段7：30。 研讨班面向所有人开放，并热烈欢迎校内外的老师、同学们来介绍自己的研究（主题不限；理论、应用皆可；微观、宏观框架皆可；统计、数理方法皆可；中文、英文皆可。） 有意者请联系我们：翁丽影 (wengliying@hust.edu.cn)，易鸣 (yiming@hust.edu.cn）。 07月03日 周二 7:30PM 经济学院402室 宏观经济形势分析（李玮雪、宋亚军） 邹建文研究前沿介绍“Frontier of Structural Labor: a Micro Semi-structural Analysis”以及最近工作进展汇报 &quot;using life cycle model to simulate the life cycle influence of different kinds of income shock&quot;. 评论人：陈亚会、刘璐涛 06月19日 周二 7:30PM 经济学院402室 翁丽影汇报最近工作进展《金融摩擦下的发展政策伤害了谁：精英还是草根》 陈亚会汇报最近工作进展 评论人：刘威、陶爽 06月05日 周二 7:30PM 经济学院402室 文献介绍。刘威（博士研究生） Title: Highway toll and air pollution: Evidence from Chinese cities. (Fu and Gu, 2017) Abstract: Most highways in urban China are tolled to finance their construction. During the eight-day National Day holiday in 2012, highway tolls were waived nationwide for passenger vehicles. We use this to identify the effects of highway tolls on air pollution. Using daily pollution and weather data for 98 Chinese cities in 2011 and 2012 and employing both a regression discontinuity design and differences-in-differences method with the 2011 National Day holiday as a control, we find that eliminating tolls increases pollution by 20% and decreases visibility by one kilometer. We also estimate that the toll elasticity of air pollution is −0.15. These findings complement the scant literature on the environmental impact of road pricing. Discussant：翁丽影、魏玲洁 Download: working paper 杨迎亚（博士研究生）汇报最近工作进展 05月22日 周二 7:30PM 经济学院402室 工作论文汇报。 张麒（博士研究生） 题目: 环境分权与经济竞争背景下的河流跨界污染的县域证据 摘要: 为考察环境分权和县域经济竞争体制下的河流跨界污染问题，本文通过引入污染“累积效应”和河流“自净效应”，建立了河流污染的外部性模型，并推导出相应的假说，再从不同环境规制强度和行政分割前后两个维度，对河流污染程度的动态变化进行了情景模拟。基于2004-2014年七大流域中国国控监测断面的周数据，本文对河流污染程度与“县边界-监测站”沿河距离的关系进行了实证检验，并进一步检验了不同行政分割程度下的“跨界效应”。研究发现：①随着河流接近下游行政边界，在更强“累积效应”作用下，污染程度逐步加深且速度加快，县域“跨界污染”问题显著；②随着河流跨越县域边界，在更强“自净效应”作用下，污染程度增长放缓乃至局部下降，县边界两侧污染程度呈现出结构性差异，且中西部地区结构性差异程度高于东部地区；③随着河流跨越的边界数量增加，污染也随之增加。据此，本文建议进一步健全河流污染监测体系，推进“河长制”管理模式，完善流域治理府际协调机制和官员离任审计等。 评论人：邹建文、周叶迪 下载: 幻灯片 05月08日 周二 7:30PM 经济学院402室 工作论文汇报。顾晓敏（博士研究生） Title: Arrival of Young Talents: Send-down Movement and Rural Education in China Abstract: Understanding human capital spillovers is important for both theory of economic growth and public policy in education. However, empirical evidence is sparse. Convincing identification requires an exogenous relocation of a group of better-educated people. China's sent-down youth (SDY) movement serves as an excellent natural experiment. From 1962 to 1979, the government mandated the temporary resettlement of roughly 18 million urban youth to rural areas. Using a unique county-level data set compiled from over 3,000 local gazetteers, we estimate how rural children's exposure to those better-educated urban youth affects their educational attainment. Our identification strategy builds on two sources of variation. First, counties received different numbers of SDYs during the movement. Second, within the same county, children of different cohorts were exposed differently depending on how their schooling years overlapped with the movement. Empirical results suggest that the arrival of SDYs increases local rural children's education and improve their attitudes towards education. More interestingly, we find evidence that SDYs coming from far away exert greater externalities. Discussant：翁丽影、陈亚会。 Download: working paper 04月24日 周二 7:00PM 经济学院402室 工作论文汇报。马志浩（硕士研究生） 题目: 流动人口的自我选择与性别工资差异 摘要: 本文使用流动人口动态监测数据和CLDS数据研究了流动人口自我选择对性别工资差距的影响,发现了以下三个结论:第一,不同性别针对省内流动与跨省流动具有显著的差异，相对于男性，女性具有更强烈的省内流动倾向；第二，针对跨省流动人口，男女流动人口都被“大城市“所吸引。我们发现收入对流动距离的弹性只有6%，因此流动距离对效用无明显影响。第三，整体考虑两性对职业与流动模式选择的影响，通过改进Brown分解方法，修正原有模型中的选择偏误。 评论人：邹建文、冯飞洋 下载: 04月10日 周二 7:00PM 经济学院402室 工作论文汇报。邹建文（博士研究生） Title: Income Shock, Partial Insurance and Welfare Effect: Differece between Chinese Urban and Rural Consumption Abstract: This paper estimate income shock, partial insurance based minimum distance estimator, and estimate preference parameter based life cycle model and simulated moment method. Using the estimated parameter, we calculate the welfare effect of income shock, partial insurance, and stochastic shock separately for Chinese rural and urban household. We find that Chinese rural household have higher income risk, better risk insurance, and have lower discount factor, slight higher risk aversion, comparing to urban household. The welfare effect of income shock, partial insurance, and stochastic shock is moderate. Discussant：刘威、宋亚军 Download: slides 03月27日 周二 7:00PM 经济学院402室 工作论文汇报。陈攀（研究生） Title: Environmental protection inspection and air pollution in Hebei: Catch me if you can. Abstract: Motivated by the intervention of central government’s environmental protection inspection in Hebei province from January 2016 to February 2016, this paper uses a panel data method initiated by Hsiao et al. (2012) to evaluate the impact that the inspection has on air quality in 8 serious haze-capped cities of Hebei province. We find the inspection lowers 17 weeks’ average AQI in Shijiazhuang (capital of Hebei province), Tangshan, Handan, Baoding, Langfang, Cangzhou, Hengshui, and Xingtai by 13.13 (8.93%), 9.67 (7.6%), 9.6 (12.36%), 38 (16.25%), 39.73 (29.98%), 18.77 (16.2%), 4.73 (4.14%), and 17.65 (13.33%) respectively. We think an intuitive reason behind AQI’s sharp fall in Baoding and Langfang may owe to the two cities’ exactly neighboring Beijing, the capital of China, which brings them more pressure than other regions. Longer period’s average treatments for these cities are also provided, and they seem to imply a declining or even vanishing treatment effect for all cities. The environmental protection inspection may have played a role as ‘wind’: once it blows away, previously depressed polluting sources come to life again. Discussant：李磊、李玮雪 Download: slides 03月15日 周四 7:00PM 经济学院402室 工作论文汇报 + 研究方向介绍。杨荷（中南财经政法大学文澜学院 助理教授） 题目: 新制度经济学在西方经济史学科中的应用 摘要: 新制度经济学在与西方经济史领域进行跨学科结合的过程中，起到了推动经济史学科方法论发展和开辟新研究视角的作用。本次讲座将介绍制度分析在西方经济史当中的几个经典课题，并总结五个典型的制度分析框架。以其中之一个框架为案例，本次讲座将阐述制度分析在英国敞田制地权研究和中国的一田二主制度研究当中的运用。 评论人：翁丽影、陈亚会。 下载: 幻灯片 03月01日 周四 7：00PM 经济学院402室 寒假见闻交流、新学期任务布置、奖励上学年研讨班表现优秀的同学。]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2018春季学期宏观经济研讨班安排</title>
+      <link href="//workshop/2018smwork/"/>
+      <url>//workshop/2018smwork/</url>
+      
+        <content type="html"><![CDATA[<p>本学期宏观研讨班将于每个奇数周举行。前两次研讨安排在<font color="red">周四</font>晚上，后面的研讨都安排在<font color="blue">周二</font>晚上。地点均为经济学院402室。开始时间为：冬令时段7：00，夏令时段7：30。</p><p>研讨班面向所有人开放，并热烈欢迎校内外的老师、同学们来介绍自己的研究（主题不限；理论、应用皆可；微观、宏观框架皆可；统计、数理方法皆可；中文、英文皆可。） 有意者请联系我们：翁丽影 (<a href="mailto:wengliying@hust.edu.cn" target="_blank" rel="external">wengliying@hust.edu.cn</a>)，易鸣 (<a href="mailto:yiming@hust.edu.cn" target="_blank" rel="external">yiming@hust.edu.cn</a>）。</p><a id="more"></a><hr><h3 id="07月03日-font-color-blue-周二-font-7-30pm-经济学院402室">07月03日 <font color="blue">周二</font>  7:30PM 经济学院402室</h3><ol><li>宏观经济形势分析（李玮雪、宋亚军）</li><li>邹建文研究前沿介绍“Frontier of Structural Labor: a Micro Semi-structural Analysis”以及最近工作进展汇报 &quot;using life cycle model to simulate the life cycle influence of different kinds of income shock&quot;.</li></ol><p>评论人：陈亚会、刘璐涛</p><hr><h3 id="06月19日-font-color-blue-周二-font-7-30pm-经济学院402室">06月19日 <font color="blue">周二</font>  7:30PM 经济学院402室</h3><ol><li>翁丽影汇报最近工作进展《金融摩擦下的发展政策伤害了谁：精英还是草根》</li><li>陈亚会汇报最近工作进展</li></ol><p>评论人：刘威、陶爽</p><hr><h3 id="06月05日-font-color-blue-周二-font-7-30pm-经济学院402室">06月05日 <font color="blue">周二</font>  7:30PM 经济学院402室</h3><ol><li>文献介绍。刘威（博士研究生）</li></ol><ul><li><strong>Title</strong>:  Highway toll and air pollution: Evidence from Chinese cities. (Fu and Gu, 2017)</li><li><strong>Abstract</strong>: Most highways in urban China are tolled to finance their construction. During the eight-day National Day holiday in 2012, highway tolls were waived nationwide for passenger vehicles. We use this to identify the effects of highway tolls on air pollution. Using daily pollution and weather data for 98 Chinese cities in 2011 and 2012 and employing both a regression discontinuity design and differences-in-differences method with the 2011 National Day holiday as a control, we find that eliminating tolls increases pollution by 20% and decreases visibility by one kilometer. We also estimate that the toll elasticity of air pollution is −0.15. These findings complement the scant literature on the environmental impact of road pricing.</li><li><strong>Discussant</strong>：翁丽影、魏玲洁</li><li><strong>Download</strong>: <a href="/workshop/2018smwork/liuwei.pdf">working paper</a></li></ul><ol start="2"><li>杨迎亚（博士研究生）汇报最近工作进展</li></ol><hr><h3 id="05月22日-font-color-blue-周二-font-7-30pm-经济学院402室">05月22日 <font color="blue">周二</font> 7:30PM 经济学院402室</h3><ol><li>工作论文汇报。 张麒（博士研究生）</li></ol><ul><li><strong>题目</strong>:  环境分权与经济竞争背景下的河流跨界污染的县域证据</li><li><strong>摘要</strong>: 为考察环境分权和县域经济竞争体制下的河流跨界污染问题，本文通过引入污染“累积效应”和河流“自净效应”，建立了河流污染的外部性模型，并推导出相应的假说，再从不同环境规制强度和行政分割前后两个维度，对河流污染程度的动态变化进行了情景模拟。基于2004-2014年七大流域中国国控监测断面的周数据，本文对河流污染程度与“县边界-监测站”沿河距离的关系进行了实证检验，并进一步检验了不同行政分割程度下的“跨界效应”。研究发现：①随着河流接近下游行政边界，在更强“累积效应”作用下，污染程度逐步加深且速度加快，县域“跨界污染”问题显著；②随着河流跨越县域边界，在更强“自净效应”作用下，污染程度增长放缓乃至局部下降，县边界两侧污染程度呈现出结构性差异，且中西部地区结构性差异程度高于东部地区；③随着河流跨越的边界数量增加，污染也随之增加。据此，本文建议进一步健全河流污染监测体系，推进“河长制”管理模式，完善流域治理府际协调机制和官员离任审计等。</li><li><strong>评论人</strong>：邹建文、周叶迪</li><li><strong>下载</strong>: <a href="/workshop/2018smwork/zhangqi.pdf">幻灯片</a></li></ul><hr><h3 id="05月08日-font-color-blue-周二-font-7-30pm-经济学院402室">05月08日  <font color="blue">周二</font> 7:30PM 经济学院402室</h3><ol><li>工作论文汇报。顾晓敏（博士研究生）</li></ol><ul><li><strong>Title</strong>: Arrival of Young Talents: Send-down Movement and Rural Education in China</li><li><strong>Abstract</strong>: Understanding human capital spillovers is important for both theory of economic growth and public policy in education. However, empirical evidence is sparse. Convincing identification requires an exogenous relocation of a group of better-educated people. China's sent-down youth (SDY) movement serves as an excellent natural experiment. From 1962 to 1979, the government mandated the temporary resettlement of roughly 18 million urban youth to rural areas. Using a unique county-level data set compiled from over 3,000 local gazetteers, we estimate how rural children's exposure to those better-educated urban youth affects their educational attainment. Our identification strategy builds on two sources of variation. First, counties received different numbers of SDYs during the movement. Second, within the same county, children of different cohorts were exposed differently depending on how their schooling years overlapped with the movement. Empirical results suggest that the arrival of SDYs increases local rural children's education and improve their attitudes towards education. More interestingly, wefind evidence that SDYs coming from far away exert greater externalities.</li><li><strong>Discussant</strong>：翁丽影、陈亚会。</li><li><strong>Download</strong>: <a href="/workshop/2018smwork/guxiaomin.pdf">working paper</a></li></ul><hr><h3 id="04月24日-font-color-blue-周二-font-7-00pm-经济学院402室">04月24日 <font color="blue">周二</font> 7:00PM 经济学院402室</h3><ol><li>工作论文汇报。马志浩（硕士研究生）</li></ol><ul><li><strong>题目</strong>:  流动人口的自我选择与性别工资差异</li><li><strong>摘要</strong>: 本文使用流动人口动态监测数据和CLDS数据研究了流动人口自我选择对性别工资差距的影响,发现了以下三个结论:第一,不同性别针对省内流动与跨省流动具有显著的差异，相对于男性，女性具有更强烈的省内流动倾向；第二，针对跨省流动人口，男女流动人口都被“大城市“所吸引。我们发现收入对流动距离的弹性只有6%，因此流动距离对效用无明显影响。第三，整体考虑两性对职业与流动模式选择的影响，通过改进Brown分解方法，修正原有模型中的选择偏误。</li><li><strong>评论人</strong>：邹建文、冯飞洋</li><li><strong>下载</strong>:</li></ul><hr><h3 id="04月10日-font-color-blue-周二-font-7-00pm-经济学院402室">04月10日 <font color="blue">周二</font> 7:00PM 经济学院402室</h3><ol><li>工作论文汇报。邹建文（博士研究生）</li></ol><ul><li><strong>Title</strong>: Income Shock, Partial Insurance and Welfare Effect: Differece between Chinese Urban and Rural Consumption</li><li><strong>Abstract</strong>: This paper estimate income shock, partial insurance based minimum distance estimator, and estimate preference parameter based life cycle model and simulated moment method. Using the estimated parameter, we calculate the welfare effect of income shock, partial insurance, and stochastic shock separately for Chinese rural and urban household. We find that Chinese rural household have higher income risk, better risk insurance, and have lower discount factor, slight higher risk aversion, comparing to urban household. The welfare effect of income shock, partial insurance, and stochastic shock is moderate.</li><li><strong>Discussant</strong>：刘威、宋亚军</li><li><strong>Download</strong>: <a href="/workshop/2018smwork/zoujianwen.pdf">slides</a></li></ul><hr><h3 id="03月27日-font-color-blue-周二-font-7-00pm-经济学院402室">03月27日 <font color="blue">周二</font> 7:00PM 经济学院402室</h3><ol><li>工作论文汇报。陈攀（研究生）</li></ol><ul><li><strong>Title</strong>: Environmental protection inspection and air pollution in Hebei: Catch me if you can.</li><li><strong>Abstract</strong>: Motivated by the intervention of central government’s environmental protection inspection in Hebei province from January 2016 to February 2016, this paper uses a panel data method initiated by Hsiao et al. (2012) to evaluate the impact that the inspection has on air quality in 8 serious haze-capped cities of Hebei province. We find the inspection lowers 17 weeks’ average AQI in Shijiazhuang (capital of Hebei province), Tangshan, Handan, Baoding, Langfang, Cangzhou, Hengshui, and Xingtai by 13.13 (8.93%), 9.67 (7.6%), 9.6 (12.36%), 38 (16.25%), 39.73 (29.98%), 18.77 (16.2%), 4.73 (4.14%), and 17.65 (13.33%) respectively. We think an intuitive reason behind AQI’s sharp fall in Baoding and Langfang may owe to the two cities’ exactly neighboring Beijing, the capital of China, which brings them more pressure than other regions. Longer period’s average treatments for these cities are also provided, and they seem to imply a declining or even vanishing treatment effect for all cities. The environmental protection inspection may have played a role as ‘wind’: once it blows away, previously depressed polluting sources come to life again.</li><li><strong>Discussant</strong>：李磊、李玮雪</li><li><strong>Download</strong>: <a href="/workshop/2018smwork/chenpan.pdf">slides</a></li></ul><hr><h3 id="03月15日-font-color-red-周四-font-7-00pm-经济学院402室">03月15日 <font color="red">周四</font> 7:00PM 经济学院402室</h3><ol><li>工作论文汇报 + 研究方向介绍。杨荷（中南财经政法大学文澜学院 助理教授）</li></ol><ul><li><strong>题目</strong>: 新制度经济学在西方经济史学科中的应用</li><li><strong>摘要</strong>: 新制度经济学在与西方经济史领域进行跨学科结合的过程中，起到了推动经济史学科方法论发展和开辟新研究视角的作用。本次讲座将介绍制度分析在西方经济史当中的几个经典课题，并总结五个典型的制度分析框架。以其中之一个框架为案例，本次讲座将阐述制度分析在英国敞田制地权研究和中国的一田二主制度研究当中的运用。</li><li><strong>评论人</strong>：翁丽影、陈亚会。</li><li><strong>下载</strong>: <a href="/workshop/2018smwork/yanghe.pdf">幻灯片</a></li></ul><hr><h3 id="03月01日-font-color-red-周四-font-7：00pm-经济学院402室">03月01日 <font color="red">周四</font> 7：00PM 经济学院402室</h3><ol><li>寒假见闻交流、新学期任务布置、奖励上学年研讨班表现优秀的同学。</li></ol><hr>]]></content>
+      
+      
       <categories>
-        <category>Workshop &amp; Seminar</category>
+          
+          <category> Workshop &amp; Seminar </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[《猎户星座》by 朴树]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2F%2Flife%2Fliehuxingzuo%2F</url>
-    <content type="text"><![CDATA[等了14年的专辑。遗憾的是手边已没有 CD 播放机。 电子版链接：网易云音乐。]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>《猎户星座》by 朴树</title>
+      <link href="//life/liehuxingzuo/"/>
+      <url>//life/liehuxingzuo/</url>
+      
+        <content type="html"><![CDATA[<p>等了14年的专辑。遗憾的是手边已没有 CD 播放机。<br>电子版链接：<a href="https://music.163.com/#/album?id=36811043" target="_blank" rel="external">网易云音乐</a>。<img src="/life/liehuxingzuo/liehuxz.JPG" width="450px"></p>]]></content>
+      
+      
       <categories>
-        <category>Life</category>
+          
+          <category> Life </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2017秋《中级宏观经济学》课程信息]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2F%2Fteaching%2F2017fumacro%2F</url>
-    <content type="text"><![CDATA[Textbook: Macroeconomics, Ninth Edition, N. Gregory Mankiw, 2016. New York: Worth Publishers. 课程大纲下载：Syllabus Chapter 17. Download: slides. Homework: 1, 2. Due on January 12, 2018. Chapter 16. Download: slides. Homework: 2, 5. Due on January 12, 2018. Chapter 15. Download: slides. Homework: 2, 3, 6. Due on January 12, 2018. Chapter 14. Download: slides. Homework: 1, 2, 3, 7. Due on January 12, 2018. (December/13/2017) Download: File of Questions. Download: Midterm Exam. Chapter 13. Download: slides. Homework: 1, 2, 5, 6, 9. Due on December 22. Chapter 12. Download: slides. Homework: 2, 4, 6, 10 . Due on December 22. Chapter 11. Download: slides. Homework: 1, 2, 4, 6. Due on December 08. Chapter 10. Download: slides. Homework: 1, 2. Due on December 08. Chapter 9. Download: slides. Homework: 2, 3, 4, 6. Due on November 22. Chapter 8. Download: slides. Homework: 1, 2, 5, 8. Due on November 22. Chapter 7. Download: slides. Homework: 1, 3, 5, 6, 7. Due on November 08. Chapter 6. Download: slides. Homework: 1, 2, 3, 8, 9. Due on November 08. (10/20/2017) 尽管运动会改期导致10月27日的课被取消，但第4、5章作业的截止日期仍然不变。请各班级的负责人分别与助教刘璐涛联系协商具体安排，并将本班级作业收齐后准时上交。 Chapter 5. Download: slides. Homework: 1, 2, 4, 5, 7. Due on October 27. Chapter 4. Download: slides, supplementary notes. Homework: 2, 3, 4, 7. Due on October 27. Chapter 3. Download: slides. Homework: 1, 2, 4, 7, 10. Due on October 11. Chapter 2. Download: slides, supplementary notes. Homework: 3, 4, 6, 8. Due on October 11. Chapter 1. Download: slides, supplementary notes. Homework: N/A. 历年试卷下载。2015年：Midterm 1，Midterm 2，Final Exam。2016年：Midterm 1，Midterm 2，Final Exam。]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2017秋《中级宏观经济学》课程信息</title>
+      <link href="//teaching/2017fumacro/"/>
+      <url>//teaching/2017fumacro/</url>
+      
+        <content type="html"><![CDATA[<center><table><thead><tr><th style="text-align:left"><img src="/teaching/2017fumacro/textbook.jpeg" width="110px"></th><th style="text-align:left"><img src="/teaching/2017fumacro/textchinese.jpeg" width="110px"></th><th style="text-align:left">Textbook: <em>Macroeconomics</em>, Ninth Edition, N. Gregory Mankiw, 2016. New York: Worth Publishers. <br> <br>课程大纲下载：<a href="/teaching/2017fumacro/syllabus_2017fumacro.pdf">Syllabus</a></th></tr></thead><tbody></tbody></table></center><a id="more"></a><br><ul><li><p>Chapter 17. Download: <a href="/teaching/2017fumacro/CHAP17.pdf">slides</a>.Homework: 1, 2. Due on January 12, 2018.</p></li><li><p>Chapter 16. Download: <a href="/teaching/2017fumacro/CHAP16.pdf">slides</a>.Homework: 2, 5. Due on January 12, 2018.</p></li><li><p>Chapter 15. Download: <a href="/teaching/2017fumacro/CHAP15.pdf">slides</a>.Homework: 2, 3, 6. Due on January 12, 2018.</p></li><li><p>Chapter 14. Download: <a href="/teaching/2017fumacro/CHAP14.pdf">slides</a>.Homework: 1, 2, 3, 7. Due on January 12, 2018.</p></li><li><p>(December/13/2017) Download: <a href="/teaching/2017fumacro/questions_sheet.pdf">File of Questions</a>.</p></li><li><p>Download: <a href="/teaching/2017fumacro/2017_midterm.pdf">Midterm Exam</a>.</p></li><li><p>Chapter 13. Download: <a href="/teaching/2017fumacro/CHAP13.pdf">slides</a>.Homework: 1, 2, 5, 6, 9. Due on December 22.</p></li><li><p>Chapter 12. Download: <a href="/teaching/2017fumacro/CHAP12.pdf">slides</a>.Homework: 2, 4, 6, 10 . Due on December 22.</p></li><li><p>Chapter 11. Download: <a href="/teaching/2017fumacro/CHAP11.pdf">slides</a>.Homework: 1, 2, 4, 6. Due on December 08.</p></li><li><p>Chapter 10. Download: <a href="/teaching/2017fumacro/CHAP10.pdf">slides</a>.Homework: 1, 2. Due on December 08.</p></li><li><p>Chapter 9. Download: <a href="/teaching/2017fumacro/CHAP09.pdf">slides</a>.Homework: 2, 3, 4, 6. Due on November 22.</p></li><li><p>Chapter 8. Download: <a href="/teaching/2017fumacro/CHAP08.pdf">slides</a>.Homework: 1, 2, 5, 8. Due on November 22.</p></li><li><p>Chapter 7. Download: <a href="/teaching/2017fumacro/CHAP07.pdf">slides</a>.Homework: 1, 3, 5, 6, 7. Due on November 08.</p></li><li><p>Chapter 6. Download: <a href="/teaching/2017fumacro/CHAP06.pdf">slides</a>.Homework: 1, 2, 3, 8, 9. Due on November 08.</p></li><li><p>(10/20/2017) 尽管运动会改期导致10月27日的课被取消，但第4、5章作业的截止日期仍然不变。请各班级的负责人分别与助教刘璐涛联系协商具体安排，并将本班级作业收齐后准时上交。</p></li><li><p>Chapter 5. Download: <a href="/teaching/2017fumacro/CHAP05.pdf">slides</a>.Homework: 1, 2, 4, 5, 7. Due on October  27.</p></li><li><p>Chapter 4. Download: <a href="/teaching/2017fumacro/CHAP04.pdf">slides</a>, <a href="/teaching/2017fumacro/ch04_supplementary_notes.pdf">supplementary notes</a>.Homework: 2, 3, 4, 7. Due on October 27.</p></li><li><p>Chapter 3. Download: <a href="/teaching/2017fumacro/CHAP03.pdf">slides</a>.Homework: 1, 2, 4, 7, 10. Due on October 11.</p></li><li><p>Chapter 2. Download: <a href="/teaching/2017fumacro/CHAP02.pdf">slides</a>, <a href="/teaching/2017fumacro/ch02_supplementary_notes.pdf">supplementary notes</a>.Homework: 3, 4, 6, 8. Due on October 11.</p></li><li><p>Chapter 1. Download: <a href="/teaching/2017fumacro/CHAP01.pdf">slides</a>, <a href="/teaching/2017fumacro/ch01_supplementary_notes.pdf">supplementary notes</a>. Homework: N/A.</p></li><li><p>历年试卷下载。2015年：<a href="/teaching/2017fumacro/2015_midterm_1.pdf">Midterm 1</a>，<a href="/teaching/2017fumacro/2015_midterm_2.pdf">Midterm 2</a>，<a href="/teaching/2017fumacro/2015_final.pdf">Final Exam</a>。2016年：<a href="/teaching/2017fumacro/2016_midterm_1.pdf">Midterm 1</a>，<a href="/teaching/2017fumacro/2016_midterm_2.pdf">Midterm 2</a>，<a href="/teaching/2017fumacro/2016_final.pdf">Final Exam</a>。</p></li></ul>]]></content>
+      
+      
       <categories>
-        <category>Course</category>
+          
+          <category> Course </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2017秋宏观经济研讨班安排]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2F%2Fworkshop%2F2017fmwork%2F</url>
-    <content type="text"><![CDATA[本学期宏观研讨班计划于每个偶数周的星期四晚上在经济学院402会议室举行。开始时间为：夏令时段7：30，冬令时段7：00。 研讨班面向所有人开放，并热烈欢迎校内外的老师、同学们来汇报与宏观经济学或者宏观经济现象相关的工作论文（主题不限；理论、应用皆可；微观、宏观框架皆可；统计、数理方法皆可；中文、英文皆可。） 有意者请联系我们：李磊 (lilei_eco@163.com)，易鸣 (yiming@hust.edu.cn）。 2018年01月18日 7:00PM 经济学院402室 2017年第三季度宏观经济形势分析，刘晓翠、冯飞洋（我院硕士生）。幻灯片 文献介绍，邹建文（博士生）。 Title：Inferring Labor Income Risk and Partial Insurance from Economic Choices (By Guvenen and Smith, Econometrica, 2014) Abstract：This paper uses the information contained in the joint dynamics of individuals’ labor earnings and consumption-choice decisions to quantify both the amount of income risk that individuals face and the extent to which they have access to informal insurance against this risk. We accomplish this task by using indirect inference to estimate a structural consumption–savings model, in which individuals both learn about the nature of their income process and partly insure shocks via informal mechanisms. In this framework, we estimate (i) the degree of partial insurance, (ii) the extent of systematic differences in income growth rates, (iii) the precision with which individuals know their own income growth rates when they begin their working lives, (iv) the persistence of typical labor income shocks, (v) the tightness of borrowing constraints, and (vi) the amount of measurement error in the data. In implementing indirect inference,we find that an auxiliary model that approximates the true structural equations of the model (which are not estimable) works very well, with negligible small sample bias. The main substantive findings are that income shocks are moderately persistent, systematic differences in income growth rates are large, individuals have substantial amounts of information about their income growth rates, and about one-half of income shocks are smoothed via partial insurance. Putting these findings together, the amount of uninsurable lifetime income risk that individuals perceive is substantially smaller than what is typically assumed in calibrated macroeconomic models with incomplete markets. 评论人：胡耀文、江云 下载: 幻灯片 2018年01月04日 7:00PM 经济学院402室 工作论文汇报，章合杰（博士生）。 题目：银行竞争、资本账户开放与经济波动 摘要：本文引入一个分析框架，论证了银行竞争是开放经济体经济波动的一个重要来源。模型表明：在开放经济条件下，中等水平银行竞争会导致经济波动；在封闭经济条件下，银行竞争不会造成经济波动；资本账户开放会引起银行业处于中等竞争水平的国家的经济波动。基于163个国家1996-2013年面板数据的实证研究不仅证实了理论模型的各项结论，还进一步发现：第一，只进行流入、流出任意单一方向的开放，不会导致经济波动；第二，对于直接融资市场较为发达的国家而言，资本账户开放不会引起经济波动，对于直接融资市场较不发达的国家而言，如果国内的银行业处于中等竞争水平，则资本账户开放会引起经济波动；第三，货币市场以及房地产市场这两个维度的资本账户开放，不会造成经济波动。而股权市场、债券市场、集体投资市场、衍生品和其他工具市场、商业信贷市场、金融信贷市场、直接投资市场、担保市场、个人资本交易市场这九个维度的资本账户开放，会引起银行业处于中等竞争水平的国家的经济波动。为避免经济波动，在开放资本账户之前，应先构建充分竞争的银行体系或（和）较为发达的直接融资市场。 下载: 幻灯片 评论人：翁丽影、陈亚会 12月21日 7:00PM 经济学院402室 文献介绍，翁丽影（博士生）。 Title：Optimal Development Policies with Financial Frictions (By Itskhoki and Moll, NBER paers) Abstract：Motivated by the observation that many emerging economies pursue active development and industrial policies, we study optimal dynamic Ramsey policies in a standard growth model with financial frictions. We first study a one-sector economy, and then generalize the framework to multiple sectors in order to consider sectoral and exchange rate policies. In the one-sector economy, the optimal policy intervention initially increases labor supply and lowers wages, resulting in higher entrepreneurial profits and faster wealth accumulation. This in turn relaxes borrowing constraints in the future, leading to higher labor productivity and wages. The use of additional policy instruments, such as subsidized credit, is desirable as well. In the long run, the optimal policy reverses sign. In a multi-sector economy, optimal policy subsidizes sectors with a latent comparative advantage. Furthermore, if tradables sectors are undercapitalized relative to non-tradables, optimal policy compresses wages thereby improving competitiveness, but this does not necessarily imply a depreciated real exchange rate. Download: Slides 评论人：刘威、汪玉杰 高年级博士汇报自己的研究情况。 12月7日 7:00PM 经济学院402室 文献介绍，陈亚会（博士生）。 Title：Innovative Capability and Financing Constraints for Innovation:More Money, More Innovation? (By Hottenrott and Peters, published in Review of Economics and Statistics, 2012) Abstract：This study presents a novel empirical approach to identify financing constraints for innovation based on the concept of an ideal test (Hall, 2008). Firms were offered a hypothetical payment and asked to choose between alternatives of use. If they selected additional innovation projects, they must have had some unexploited investment opportunities that were not profitable using more costly external finance. We attribute constraints for innovation not only to lacking financing, but also to firms' innovative capability. Econometric results show that financial constraints do not depend on the availability of internal funds per se but that they are driven by innovative capability. Download: Slides 评论人：刘晓翠、黄雨薇 11月23日 7:00PM 经济学院402室 基于经典文献介绍因子模型及其应用，魏杰（金融系老师）。 题目：因子模型在项目评价中的应用 摘要：横截面个体间相关性是面板数据处理中不可忽视的问题，（不可观测）因子模型在处理此类问题的优势已为学者所共识。本讲座将对因子模型做基本地介绍，而后结合文献最新进展，重点展示因子模型在项目评价中的独特价值和重要应用。 下载: Slides 评论人：孙华欣、江云 11月09日 7:00PM 经济学院402室 工作论文汇报，廖俊敏（武汉大学数理经济与金融系老师）。 Title: Structural Transformation and Aggregate Productivity in China Abstract：We compare three prevailing theories about sectoral transformation in fitting China's data, and find that the non-homothetic constant elasticity of substitution preference (non-homothetic CES) which is easy to estimate and allows for considering the income effect and price effect in the long-run, can fit the data very well. Then we use the non-homothetic CES model to investigate the role of sectoral labor productivity in explaining the process of structural transformation and the time path of aggregate productivity across provinces in China. The implications of the sectoral productivity patterns generated by the model are broadly consistent with the cross-province data, which provide insights for China's economic transition. 评论人：章合杰、邹建文 Download: slides 10月26日 7:00PM 经济学院402室 2017年第三季度宏观经济形势分析，孙华欣、李玮雪（我院硕士生）。 工作论文汇报，陈非（金融系老师）。 题目: 如何利用生产法和支出法以及灯光数据改善中国GDP测量精度 摘要: 中国官方GDP增长率完全依靠生产法账户得到，一直以来饱受争议。本文初步探讨了支出法GDP账户的信息含义。我们利用预测组合的方法将生产法和支出法GDP增长率结合得到精度更高的GDP增长率，最优组合系数由第三种独立的GDP增长率测度—灯光数据得到。组合后得到近年的GDP增长率高于官方数据。 评论人：冯山，黄轲 下载: 幻灯片 10月12日 7:00PM 经济学院402室 工作论文汇报，钱铁峰（中央财经大学国际经济与贸易学院老师）。 Title: Identifying the Energy Saving Technical Change in the U.S. Manufacturing Sector. Abstract: This paper studies energy-saving technological change in U.S. manufacturing sector, whose intensive margin and extensive margins are identified. We find that energy and capital are mostly complementary to each other, while labor is substitutive to energy-capital composite. However, a Cobb-Douglas nesting of labor is rejected. Quantitative exercise shows that in the post-crisis period, within in industry energy-saving technological change accounts for the largest proportion of the aggregate sectoral energy efficiency promotion in the long run. In contrast, in the short run, factor adjustment combined with sectoral shift accounts for the largest proportion of energy intensity reduction. We provide evidence that structural change has taken place around the oil crisis in 1970s, which is consistent with the existing literature. 评论人：邹建文，李磊。 Download: slides 工作论文汇报，李磊（我院博士生） 题目：人口流动与智能制造：基于资本——技能互补的视角 内容提要：长期以来，中国依靠城乡之间、区域之间人口流动所释放的“人口红利”效应有效推动了工业化和城市化进程。本文基于2000年第五次全国人口普查分县数据和2004年中国工业企业数据考察了人口流动对工业企业智能化升级的影响，结果发现：（1）人口流动对工业企业微机应用产生了正面影响，加快了工业智能化升级的进程；（2）在区分流动人口来源后，结果显示省内县外以及省际流动人口的增加均促进了工业微机的应用，其中省际人口流动的正向效应更为稳健；（3）人口流动的影响是普遍地，对中、东、中西部地区的工业自动化水平都起到了促进作用，但影响程度和作用来源存在异质性；（4）区分企业所有制后，除集体企业外，人口流动对国有、民营以及外企的微机应用水平均有显著促进作用，其中对民营企业的影响最显著；（5）人口流动加快工业智能化进程主要是通过提高流入地人力资本水平来实现地，由此产生的资本-技能互补效应激发了企业对设备智能化升级的需求。本文所延伸的政策含义非常明显，当下中国应该加强对人力资本积累的重视，用人口质量红利代替日渐衰减的人口数量红利。 评论人：刘威，胡耀文。 下载: 幻灯片 9月28日 工作论文汇报，邹建文（我院博士生）。 Title: Introduction to Structural Estimation: A Stochastic Life Cycle Model. Abstract：Structural estimation can also be defined as theory-based estimation: the objective of the exercise is to estimate an explicitly specified economic model that is broadly consistent with observed data. We will introduce a basic stochastic life cycle model and use the method of simulated moment (MSM) to estimate the model. We will use this method to research the effect of the China Public Institutions Reform, analyze its welfare effect and do counterfactual simulation. 评论人：翁丽影，陈亚会 Download: slides. 9月14日 暑假见闻交流、新同学介绍、新学年任务布置、奖励上学期研讨班表现优秀的同学。]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2017秋宏观经济研讨班安排</title>
+      <link href="//workshop/2017fmwork/"/>
+      <url>//workshop/2017fmwork/</url>
+      
+        <content type="html"><![CDATA[<p>本学期宏观研讨班计划于每个偶数周的星期四晚上在经济学院402会议室举行。开始时间为：夏令时段7：30，冬令时段7：00。</p><p>研讨班面向所有人开放，并热烈欢迎校内外的老师、同学们来汇报与宏观经济学或者宏观经济现象相关的工作论文（主题不限；理论、应用皆可；微观、宏观框架皆可；统计、数理方法皆可；中文、英文皆可。） 有意者请联系我们：李磊 (<a href="mailto:lilei_eco@163.com" target="_blank" rel="external">lilei_eco@163.com</a>)，易鸣 (<a href="mailto:yiming@hust.edu.cn" target="_blank" rel="external">yiming@hust.edu.cn</a>）。</p><a id="more"></a><hr><h3 id="2018年01月18日-7-00pm-经济学院402室">2018年01月18日  7:00PM 经济学院402室</h3><ol><li>2017年第三季度宏观经济形势分析，刘晓翠、冯飞洋（我院硕士生）。<a href="/workshop/2017fmwork/2017Q4%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%BD%A2%E5%8A%BF%E5%88%86%E6%9E%90.pdf">幻灯片</a></li><li>文献介绍，邹建文（博士生）。<ul><li><strong>Title</strong>：Inferring Labor Income Risk and Partial Insurance from Economic Choices (By Guvenen and Smith, <em>Econometrica</em>, 2014)</li><li><strong>Abstract</strong>：This paper uses the information contained in the joint dynamics of individuals’ labor earnings and consumption-choice decisions to quantify both the amount of income risk that individuals face and the extent to which they have access to informal insurance against this risk. We accomplish this task by using indirect inference to estimate a structural consumption–savings model, in which individuals both learn about the nature of their income process and partly insure shocks via informal mechanisms. In this framework, we estimate (i) the degree of partial insurance, (ii) the extent of systematic differences in income growth rates, (iii) the precision with which individuals know their own income growth rates when they begin their working lives, (iv) the persistence of typical labor income shocks, (v) the tightness of borrowing constraints, and (vi) the amount of measurement error in the data. In implementing indirect inference,we find that an auxiliary model that approximates the true structural equations of the model (which are not estimable) works very well, with negligible small sample bias. The main substantive findings are that income shocks are moderately persistent, systematic differences in income growth rates are large, individuals have substantial amounts of information about their income growth rates, and about one-half of income shocks are smoothed via partial insurance. Putting these findings together, the amount of uninsurable lifetime income risk that individuals perceive is substantially smaller than what is typically assumed in calibrated macroeconomic models with incomplete markets.</li><li><strong>评论人</strong>：胡耀文、江云</li><li><strong>下载</strong>: <a href="/workshop/2017fmwork/James_Zou.pdf">幻灯片</a></li></ul></li></ol><hr><h3 id="2018年01月04日-7-00pm-经济学院402室">2018年01月04日  7:00PM 经济学院402室</h3><ol><li>工作论文汇报，章合杰（博士生）。<ul><li><strong>题目</strong>：银行竞争、资本账户开放与经济波动</li><li><strong>摘要</strong>：本文引入一个分析框架，论证了银行竞争是开放经济体经济波动的一个重要来源。模型表明：在开放经济条件下，中等水平银行竞争会导致经济波动；在封闭经济条件下，银行竞争不会造成经济波动；资本账户开放会引起银行业处于中等竞争水平的国家的经济波动。基于163个国家1996-2013年面板数据的实证研究不仅证实了理论模型的各项结论，还进一步发现：第一，只进行流入、流出任意单一方向的开放，不会导致经济波动；第二，对于直接融资市场较为发达的国家而言，资本账户开放不会引起经济波动，对于直接融资市场较不发达的国家而言，如果国内的银行业处于中等竞争水平，则资本账户开放会引起经济波动；第三，货币市场以及房地产市场这两个维度的资本账户开放，不会造成经济波动。而股权市场、债券市场、集体投资市场、衍生品和其他工具市场、商业信贷市场、金融信贷市场、直接投资市场、担保市场、个人资本交易市场这九个维度的资本账户开放，会引起银行业处于中等竞争水平的国家的经济波动。为避免经济波动，在开放资本账户之前，应先构建充分竞争的银行体系或（和）较为发达的直接融资市场。</li><li><strong>下载</strong>: <a href="/workshop/2017fmwork/zhanghejie.pdf">幻灯片</a></li><li><strong>评论人</strong>：翁丽影、陈亚会</li></ul></li></ol><hr><h3 id="12月21日-7-00pm-经济学院402室">12月21日  7:00PM 经济学院402室</h3><ol><li><p>文献介绍，翁丽影（博士生）。</p><ul><li><strong>Title</strong>：Optimal Development Policies with Financial Frictions (By Itskhoki and Moll, <em>NBER paers</em>)</li><li><strong>Abstract</strong>：Motivated by the observation that many emerging economies pursue active development and industrial policies, we study optimal dynamic Ramsey policies in a standard growth model with financial frictions. We first study a one-sector economy, and then generalize the framework to multiple sectors in order to consider sectoral and exchange rate policies. In the one-sector economy, the optimal policy intervention initially increases labor supply and lowers wages, resulting in higher entrepreneurial profits and faster wealth accumulation. This in turn relaxes borrowing constraints in the future, leading to higher labor productivity and wages. The use of additional policy instruments, such as subsidized credit, is desirable as well. In the long run, the optimal policy reverses sign. In a multi-sector economy, optimal policy subsidizes sectors with a latent comparative advantage. Furthermore, if tradables sectors are undercapitalized relative to non-tradables, optimal policy compresses wages thereby improving competitiveness, but this does not necessarily imply a depreciated real exchange rate.</li><li><strong>Download</strong>: <a href="/workshop/2017fmwork/wengliying.pdf">Slides</a></li><li><strong>评论人</strong>：刘威、汪玉杰</li></ul></li><li><p>高年级博士汇报自己的研究情况。</p></li></ol><hr><h3 id="12月7日-7-00pm-经济学院402室">12月7日  7:00PM 经济学院402室</h3><ol><li>文献介绍，陈亚会（博士生）。<ul><li><strong>Title</strong>：Innovative Capability and Financing Constraints for Innovation:More Money, More Innovation? (By Hottenrott and Peters, published in <em>Review of Economics and Statistics</em>, 2012)</li><li><strong>Abstract</strong>：This study presents a novel empirical approach to identify financing constraints for innovation based on the concept of an ideal test (Hall, 2008). Firms were offered a hypothetical payment and asked to choose between alternatives of use. If they selected additional innovation projects, they must have had some unexploited investment opportunities that were not profitable using more costly external finance. We attribute constraints for innovation not only to lacking financing, but also to firms' innovative capability. Econometric results show that financial constraints do not depend on the availability of internal funds per se but that they are driven by innovative capability.</li><li><strong>Download</strong>: <a href="/workshop/2017fmwork/chenyahui.pdf">Slides</a></li><li><strong>评论人</strong>：刘晓翠、黄雨薇</li></ul></li></ol><hr><h3 id="11月23日-7-00pm-经济学院402室">11月23日  7:00PM 经济学院402室</h3><ol><li>基于经典文献介绍因子模型及其应用，魏杰（金融系老师）。<ul><li><strong>题目</strong>：因子模型在项目评价中的应用</li><li><strong>摘要</strong>：横截面个体间相关性是面板数据处理中不可忽视的问题，（不可观测）因子模型在处理此类问题的优势已为学者所共识。本讲座将对因子模型做基本地介绍，而后结合文献最新进展，重点展示因子模型在项目评价中的独特价值和重要应用。</li><li><strong>下载</strong>: <a href="/workshop/2017fmwork/weijie.pdf">Slides</a></li><li><strong>评论人</strong>：孙华欣、江云</li></ul></li></ol><hr><h3 id="11月09日-7-00pm-经济学院402室">11月09日 7:00PM 经济学院402室</h3><ol><li>工作论文汇报，廖俊敏（武汉大学数理经济与金融系老师）。<ul><li><strong>Title</strong>: Structural Transformation and Aggregate Productivity in China</li><li><strong>Abstract</strong>：We compare three prevailing theories about sectoral transformation in fitting China's data, and find that the non-homothetic constant elasticity of substitution preference (non-homothetic CES) which is easy to estimate and allows for considering the income effect and price effect in the long-run, can fit the data very well. Then we use the non-homothetic CES model to investigate the role of sectoral labor productivity in explaining the process of structural transformation and the time path of aggregate productivity across provinces in China.  The implications of the sectoral productivity patterns generated by the model are broadly consistent with the cross-province data, which provide insights for China's economic transition.</li><li><strong>评论人</strong>：章合杰、邹建文</li><li><strong>Download</strong>: <a href="/workshop/2017fmwork/liao.pdf">slides</a></li></ul></li></ol><hr><h3 id="10月26日-7-00pm-经济学院402室">10月26日 7:00PM 经济学院402室</h3><ol><li>2017年第三季度宏观经济形势分析，孙华欣、李玮雪（我院硕士生）。</li><li>工作论文汇报，陈非（金融系老师）。<ul><li><strong>题目</strong>: 如何利用生产法和支出法以及灯光数据改善中国GDP测量精度</li><li><strong>摘要</strong>: 中国官方GDP增长率完全依靠生产法账户得到，一直以来饱受争议。本文初步探讨了支出法GDP账户的信息含义。我们利用预测组合的方法将生产法和支出法GDP增长率结合得到精度更高的GDP增长率，最优组合系数由第三种独立的GDP增长率测度—灯光数据得到。组合后得到近年的GDP增长率高于官方数据。</li><li><strong>评论人</strong>：冯山，黄轲</li><li><strong>下载</strong>: <a href="/workshop/2017fmwork/chenfei.pdf">幻灯片</a></li></ul></li></ol><hr><h3 id="10月12日-7-00pm-经济学院402室">10月12日  7:00PM 经济学院402室</h3><ol><li>工作论文汇报，钱铁峰（中央财经大学国际经济与贸易学院老师）。<ul><li><strong>Title</strong>: Identifying the Energy Saving Technical Change in the U.S. Manufacturing Sector.</li><li><strong>Abstract</strong>: This paper studies energy-saving technological change in U.S. manufacturing sector, whose intensive margin and extensive margins are identified. We find that energy and capital are mostly complementary to each other, while labor is substitutive to energy-capital composite. However, a Cobb-Douglas nesting of labor is rejected. Quantitative exercise shows that in the post-crisis period, within in industry energy-saving technological change accounts for the largest proportion of the aggregate sectoral energy efficiency promotion in the long run. In contrast, in the short run, factor adjustment combined with sectoral shift accounts for the largest proportion of energy intensity reduction. We provide evidence that structural change has taken place around the oil crisis in 1970s, which is consistent with the existing literature.</li><li><strong>评论人</strong>：邹建文，李磊。</li><li><strong>Download</strong>: <a href="/workshop/2017fmwork/qiantiefeng.pdf">slides</a></li></ul></li></ol><ol start="2"><li>工作论文汇报，李磊（我院博士生）<ul><li><strong>题目</strong>：人口流动与智能制造：基于资本——技能互补的视角</li><li><strong>内容提要</strong>：长期以来，中国依靠城乡之间、区域之间人口流动所释放的“人口红利”效应有效推动了工业化和城市化进程。本文基于2000年第五次全国人口普查分县数据和2004年中国工业企业数据考察了人口流动对工业企业智能化升级的影响，结果发现：（1）人口流动对工业企业微机应用产生了正面影响，加快了工业智能化升级的进程；（2）在区分流动人口来源后，结果显示省内县外以及省际流动人口的增加均促进了工业微机的应用，其中省际人口流动的正向效应更为稳健；（3）人口流动的影响是普遍地，对中、东、中西部地区的工业自动化水平都起到了促进作用，但影响程度和作用来源存在异质性；（4）区分企业所有制后，除集体企业外，人口流动对国有、民营以及外企的微机应用水平均有显著促进作用，其中对民营企业的影响最显著；（5）人口流动加快工业智能化进程主要是通过提高流入地人力资本水平来实现地，由此产生的资本-技能互补效应激发了企业对设备智能化升级的需求。本文所延伸的政策含义非常明显，当下中国应该加强对人力资本积累的重视，用人口质量红利代替日渐衰减的人口数量红利。</li><li><strong>评论人</strong>：刘威，胡耀文。</li><li><strong>下载</strong>: <a href="/workshop/2017fmwork/lilei.pdf">幻灯片</a></li></ul></li></ol><hr><h3 id="9月28日">9月28日</h3><ol><li>工作论文汇报，邹建文（我院博士生）。<ul><li><strong>Title</strong>: Introduction to Structural Estimation: A Stochastic Life Cycle Model.</li><li><strong>Abstract</strong>：Structural estimation can also be defined as theory-based estimation: the objective of the exercise is to estimate an explicitly specified economic model that is broadly consistent with observed data. We will introduce a basic stochastic life cycle model and use the method of simulated moment (MSM) to estimate the model. We will use this method to research the effect of the China Public Institutions Reform, analyze its welfare effect and do counterfactual simulation.</li><li><strong>评论人</strong>：翁丽影，陈亚会</li><li><strong>Download</strong>: <a href="/workshop/2017fmwork/zou.pdf">slides</a>.</li></ul></li></ol><hr><h3 id="9月14日">9月14日</h3><ol><li>暑假见闻交流、新同学介绍、新学年任务布置、奖励上学期研讨班表现优秀的同学。</li></ol><hr>]]></content>
+      
+      
       <categories>
-        <category>Workshop &amp; Seminar</category>
+          
+          <category> Workshop &amp; Seminar </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2F%2Flife%2Fhelloworld%2F</url>
-    <content type="text"><![CDATA[A baby boy, Chuheng Yi (易楚恒), has arrived! As the first child of Lei Chen and Ming Yi, Chuheng was born at 18:45 on December 09, 2016.]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="//life/helloworld/"/>
+      <url>//life/helloworld/</url>
+      
+        <content type="html"><![CDATA[<p>A baby boy, Chuheng Yi (易楚恒), has arrived! As the first child of Lei Chen and Ming Yi, Chuheng was born at 18:45 on December 09, 2016.</p><a id="more"></a><center> <img src="/life/helloworld/1.jpg" width="510px">  <br>   <img src="/life/helloworld/2.jpg" width="510px"></center>]]></content>
+      
+      
       <categories>
-        <category>Life</category>
+          
+          <category> Life </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[All Categories]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2Fcategories%2Findex.html</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
-    <title><![CDATA[About Me]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2Fabout%2Findex.html</url>
-    <content type="text"><![CDATA[My name is Ming Yi (易鸣). I am an Associate Professor of Economics at Huazhong University of Science and Technology (华中科技大学), China, from which I earned my B.A. and M.A. degrees in Economics. I obtained my Ph.D. degree in Economics from Virginia Tech, USA. My current research interests include Macroeconomics and Financial Economics. Publications Ming Yi, &quot;Speculator-Triggered Crisis and Interventions&quot;, Journal of Macroeconomics 52: 135-146, 2017. DOI: 10.1016/j.jmacro.2017.03.005 Ming Yi, &quot;Dynamic Beauty Contests: Learning from the Winners to Win?&quot;, Journal of Economics 122(1): 67-92, 2017. DOI: 10.1007/s00712-017-0530-z Jun Zhang, Chunping Zhong, Ming Yi, &quot;Did Olympic Games Improve Air Quality in Beijing? Based on the Synthetic Control Method&quot;, Environmental Economics and Policy Studies 18(1): 21-39, 2016. DOI: 10.1007/s10018-015-0109-2 Ming Yi, Achla Marathe, &quot;Fairness versus Efficiency of Vaccine Allocation Strategies&quot;, Value in Health 18(2):278-283, 2015. DOI: 10.1016/j.jval.2014.11.009 Ming Yi, Achla Marathe, &quot;Policy Trap and Optimal Subsidization Policy under Limited Supply of Vaccines&quot;, PLoS ONE 8(7): e67249, 2013. DOI: 10.1371/journal.pone.0067249 Working Papers Hans Haller, Ming Yi, &quot;Paths of a Continuum of Independent Random Variable&quot;, working paper, 2014. Ming Yi, &quot;Stabilizing a Regime: Kicking out Traitors or Absorbing Supporters?&quot;, working paper, 2016. 翁丽影，徐长生，易鸣，“金融摩擦、大众创业与经济增长——基于劳动分工的视角”，工作论文，2017。]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[经济系研究生答辩相关文件下载]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2Fecondefense%2Findex.html</url>
-    <content type="text"><![CDATA[当前答辩安排 2020年08月29日 经济系在职硕士毕业答辩 安排下载 相关表格下载 硕士开题相关： 硕士生中期筛选考核表 研究生科研能力评议表 博士开题相关： 博士生中期筛选考核表 研究生科研能力评议表 博士预答辩相关： 博士学位论文预答辩申请表 博士学位论文预答辩意见书 硕士答辩相关： 学历硕士（人文社科类） 同等学力硕士（人文社科类） 专业学位（全日制及非全日制双证硕士） 专业学位(非全日制硕士单证) 博士答辩相关： 学历博士(人文社科类)]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[All Tags]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2Ftags%2Findex.html</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
-    <title><![CDATA[Temporary Files]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2Ftemporary_files%2Findex.html</url>
-    <content type="text"><![CDATA[latex beamer 模板下载 研究生学术规范课程幻灯片 博士生课程幻灯片]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[Teaching Information]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2Fteaching%2Findex.html</url>
-    <content type="text"><![CDATA[Spring Semester 2018 Undergraduate Advanced Macroeconomics. Click here for course information. Fall Semester 2017 Undergraduate Intermediate Macroeconomics. Click here for course information. Graduate Advanced Macroeconoics (instructed jointly with Xu and Ma). Click here for course information.]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[Workshop and Seminar Information]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2Fworkshop%2Findex.html</url>
-    <content type="text"><![CDATA[Spring Semester 2018 Workshop on Macroeconomic Issues. Click here for more information. Fall Semester 2017 Workshop on Macroeconomic Issues. Click here for more information.]]></content>
-  </entry>
+      
+      
+    </entry>
+    
+    
+  
+  
+    
+    
+    <entry>
+      <title>About Me</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<br>My name is Ming Yi (易鸣). I am an Associate Professor of Economics at Huazhong University of Science and Technology (华中科技大学), China, from which I earned my B.A. and M.A. degrees in Economics. I obtained my Ph.D. degree in Economics from Virginia Tech, USA.  <p>My current research interests include Macroeconomics and Financial Economics.</p><h2 id="publications">Publications</h2><ol><li><p>Ming Yi, &quot;Speculator-Triggered Crisis and Interventions&quot;, <em>Journal of Macroeconomics</em> 52: 135-146, 2017.<br><a href="http://www.sciencedirect.com/science/article/pii/S0164070417301246" target="_blank" rel="external">DOI: 10.1016/j.jmacro.2017.03.005</a></p></li><li><p>Ming Yi, &quot;Dynamic Beauty Contests: Learning from the Winners to Win?&quot;, <em>Journal of Economics</em> 122(1): 67-92, 2017.<br><a href="http://link.springer.com/article/10.1007/s00712-017-0530-z?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst" target="_blank" rel="external">DOI: 10.1007/s00712-017-0530-z</a></p></li><li><p>Jun Zhang, Chunping Zhong, Ming Yi, &quot;Did Olympic Games Improve Air Quality in Beijing? Based on the Synthetic Control Method&quot;, <em>Environmental Economics and Policy Studies</em> 18(1): 21-39, 2016.<br><a href="http://link.springer.com/article/10.1007/s10018-015-0109-2" target="_blank" rel="external">DOI: 10.1007/s10018-015-0109-2</a></p></li><li><p>Ming Yi, Achla Marathe, &quot;Fairness versus Efficiency of Vaccine Allocation Strategies&quot;, <em>Value in Health</em> 18(2):278-283, 2015.<br><a href="http://www.sciencedirect.com/science/article/pii/S1098301514047718" target="_blank" rel="external">DOI: 10.1016/j.jval.2014.11.009</a></p></li><li><p>Ming Yi, Achla Marathe, &quot;Policy Trap and Optimal Subsidization Policy under Limited Supply of Vaccines&quot;, <em>PLoS ONE</em> 8(7): e67249, 2013.<br><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067249" target="_blank" rel="external">DOI: 10.1371/journal.pone.0067249</a></p></li></ol><h2 id="working-papers">Working Papers</h2><ol><li><p>Hans Haller, Ming Yi, &quot;Paths of a Continuum of Independent Random Variable&quot;, working paper, 2014.</p></li><li><p>Ming Yi, &quot;Stabilizing a Regime: Kicking out Traitors or Absorbing Supporters?&quot;, working paper, 2016.</p></li><li><p>翁丽影，徐长生，易鸣，“金融摩擦、大众创业与经济增长——基于劳动分工的视角”，工作论文，2017。</p></li></ol>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>All Categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>经济系研究生答辩相关文件下载</title>
+      <link href="/econdefense/index.html"/>
+      <url>/econdefense/index.html</url>
+      
+        <content type="html"><![CDATA[<br><h1>当前答辩安排</h1><ul><li><a href="/econdefense/files/2020/2020_08_29_%E7%BB%8F%E6%B5%8E%E7%B3%BB%E5%9C%A8%E8%81%8C%E7%A0%94%E7%A9%B6%E7%94%9F%E5%BC%80%E9%A2%98%E7%AD%94%E8%BE%A9.pdf">2020年08月29日 经济系在职硕士毕业答辩 安排下载</a></li></ul><h1>相关表格下载</h1><hr><p>硕士开题相关：</p><ul><li><a href="/econdefense/files/%E7%A1%95%E5%A3%AB%E7%94%9F%E4%B8%AD%E6%9C%9F%E7%AD%9B%E9%80%89%E8%80%83%E6%A0%B8%E8%A1%A8.doc">硕士生中期筛选考核表</a></li><li><a href="/econdefense/files/%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A7%91%E7%A0%94%E8%83%BD%E5%8A%9B%E8%AF%84%E8%AE%AE%E8%A1%A8.doc">研究生科研能力评议表</a></li></ul><hr><p>博士开题相关：</p><ul><li><a href="/econdefense/files/%E5%8D%9A%E5%A3%AB%E7%94%9F%E4%B8%AD%E6%9C%9F%E7%AD%9B%E9%80%89%E8%80%83%E6%A0%B8%E8%A1%A8.doc">博士生中期筛选考核表</a></li><li><a href="/econdefense/files/%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A7%91%E7%A0%94%E8%83%BD%E5%8A%9B%E8%AF%84%E8%AE%AE%E8%A1%A8.doc">研究生科研能力评议表</a></li></ul><hr><p>博士预答辩相关：</p><ul><li><a href="/econdefense/files/%E5%8D%9A%E5%A3%AB%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E9%A2%84%E7%AD%94%E8%BE%A9%E7%94%B3%E8%AF%B7%E8%A1%A8.pdf">博士学位论文预答辩申请表</a></li><li><a href="/econdefense/files/%E5%8D%9A%E5%A3%AB%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E9%A2%84%E7%AD%94%E8%BE%A9%E6%84%8F%E8%A7%81%E4%B9%A6.pdf">博士学位论文预答辩意见书</a></li></ul><hr><p>硕士答辩相关：</p><ul><li><a href="/econdefense/files/%E5%AD%A6%E5%8E%86%E7%A1%95%E5%A3%AB(%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91%E7%B1%BB).rar">学历硕士（人文社科类）</a></li><li><a href="/econdefense/files/%E5%90%8C%E7%AD%89%E5%AD%A6%E5%8A%9B%E7%A1%95%E5%A3%AB(%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91%E7%B1%BB).rar">同等学力硕士（人文社科类）</a></li><li><a href="/econdefense/files/%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%BD%8D(%E5%85%A8%E6%97%A5%E5%88%B6%E5%8F%8A%E9%9D%9E%E5%85%A8%E6%97%A5%E5%88%B6%E5%8F%8C%E8%AF%81%E7%A1%95%E5%A3%AB).rar">专业学位（全日制及非全日制双证硕士）</a></li><li><a href="/econdefense/files/%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%BD%8D(%E9%9D%9E%E5%85%A8%E6%97%A5%E5%88%B6%E7%A1%95%E5%A3%AB%E5%8D%95%E8%AF%81).rar">专业学位(非全日制硕士单证)</a></li></ul><hr><p>博士答辩相关：</p><ul><li><a href="/econdefense/files/%E5%AD%A6%E5%8E%86%E5%8D%9A%E5%A3%AB(%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91%E7%B1%BB).rar">学历博士(人文社科类)</a></li></ul><hr><!--- [2](/temporary_files/files/2.pptx)  [3](/temporary_files/files/3.pptx)- [ch_7_notes.pdf](/temporary_files/files/ch_7_notes.pdf),  [ch_7.ppt](/temporary_files/files/ch_7.ppt)- [ch_6_notes.pdf](/temporary_files/files/ch_6_notes.pdf),  [ch_6.ppt](/temporary_files/files/ch_6.ppt)- [ch_5_notes.pdf](/temporary_files/files/ch_5_notes.pdf),  [ch_5.ppt](/temporary_files/files/ch_5.ppt)- [高级宏观教材](/temporary_files/files/高级宏观第四版.pdf)- [中级宏观教材](/temporary_files/files/textbook.pdf)- [Deep Learning](/temporary_files/files/dl.pdf)-->]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>All Tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Temporary Files</title>
+      <link href="/temporary_files/index.html"/>
+      <url>/temporary_files/index.html</url>
+      
+        <content type="html"><![CDATA[<br><h1>latex beamer 模板下载</h1><ul><li><a href="/temporary_files/files/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%A6%E6%9C%AF%E8%A7%84%E8%8C%83.zip">研究生学术规范课程幻灯片</a></li><li><a href="/temporary_files/files/DP_OC.zip">博士生课程幻灯片</a></li></ul><hr><!--- [2](/temporary_files/files/2.pptx)  [3](/temporary_files/files/3.pptx)- [ch_7_notes.pdf](/temporary_files/files/ch_7_notes.pdf),  [ch_7.ppt](/temporary_files/files/ch_7.ppt)- [ch_6_notes.pdf](/temporary_files/files/ch_6_notes.pdf),  [ch_6.ppt](/temporary_files/files/ch_6.ppt)- [ch_5_notes.pdf](/temporary_files/files/ch_5_notes.pdf),  [ch_5.ppt](/temporary_files/files/ch_5.ppt)- [高级宏观教材](/temporary_files/files/高级宏观第四版.pdf)- [中级宏观教材](/temporary_files/files/textbook.pdf)- [Deep Learning](/temporary_files/files/dl.pdf)-->]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Teaching Information</title>
+      <link href="/teaching/index.html"/>
+      <url>/teaching/index.html</url>
+      
+        <content type="html"><![CDATA[<br><h3 id="spring-semester-2018">Spring Semester 2018</h3><ol><li>Undergraduate Advanced Macroeconomics. Click <a href="/teaching/2018sumacro/">here</a> for course information.</li></ol><hr><h3 id="fall-semester-2017">Fall Semester 2017</h3><ol><li><p>Undergraduate Intermediate Macroeconomics. Click <a href="/teaching/2017fumacro">here</a> for course information.</p></li><li><p>Graduate Advanced Macroeconoics (instructed jointly with Xu and Ma).  Click <a href="/teaching/2017fdmacro">here</a> for course information.</p></li></ol>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Workshop and Seminar Information</title>
+      <link href="/workshop/index.html"/>
+      <url>/workshop/index.html</url>
+      
+        <content type="html"><![CDATA[<br><h3 id="spring-semester-2018">Spring Semester 2018</h3><ol><li>Workshop on Macroeconomic Issues. Click <a href="/workshop/2018smwork">here</a> for more information.</li></ol><hr><h3 id="fall-semester-2017">Fall Semester 2017</h3><ol><li>Workshop on Macroeconomic Issues. Click <a href="/workshop/2017fmwork">here</a> for more information.</li></ol>]]></content>
+      
+    </entry>
+    
+    
+  
 </search>
