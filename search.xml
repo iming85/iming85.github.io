@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Doctoral Macroeconomics, lectures on Dynamic Programming and Optimal Control, 2023 Fall]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2F%2Fteaching%2F2023fdmacro%2F</url>
-    <content type="text"><![CDATA[For this year's lecture notes on introductory DP &amp; OC, please download notes and supplementary files from the following links：Lecture Notes, Lucas Tree Paper, Lucas Tree notebook from QuantEcon.org. Exercises are due on January 15th, 2024. Download link: Homework. You may want to download the Matlab and/or Python template scripts that give you basic ideas on how to implement the steps required in a dynamic programming problem: Matlab codes, Python codes. Please DO notice the comment lines on top of the script files. 123456# To run this script in Python, you should make sure that # both matplotlib and numpy modules are pre-installed.# This file should serve only as a template for you to start working.# So I intentionally added quite a few mistakes (but not syntax errors)# into this file, to make sure that nobody can just copy # all the codes to her software and get correct results. 1234% codes in Matlab for (a)-(c) of the Dynamic Programming homework. % I intentionally added quite a few mistakes (but not syntax errors)% into this file, to make sure that nobody can just copy % all the codes to her software and get correct results.]]></content>
+    <title><![CDATA[2024春本科生《高级宏观经济学》课程信息]]></title>
+    <url>https%3A%2F%2Fwww.yiming.website%2F%2Fteaching%2F2024sumacro%2F</url>
+    <content type="text"><![CDATA[西方经济学（第二版，下册宏观经济学部分）。《西方经济学》编写组。高等教育出版社，人民出版社，2019（2021重印）。 高级宏观经济学（第五版），（美）罗默著，吴化斌/龚关译，上海财经大学出版社，2021。 Advanced Macroeconomics, 5th Edition. David Romer, 2018. New York: McGraw-Hill Irwin. Chapter 2. Download: slides, supplementary notes. 动态规划与最优控制入门讲义（不做要求，仅供部分学有余力的同学参考）。Assignments: 2.2, 2.6, 2.9, 2.10, 2.18, 2.19. Due date: May/15/2023. Chapter 1. Download: slides.Assignments: 1.1, 1.3, 1.4, 1.9, 1.12, 1.13 Due date: April/06/2023. Exams in previous years. 2015：Midterm 1，Midterm 2，Final Exam。2016：Midterm 1，Midterm 2，Final Exam。2017：Midterm 1，Midterm 2，Final Exam。2018：Midterm 1, Midterm 2, Final Exam。2019：Midterm 1, Midterm 2, Final Exam。2020：Final Exam。2021：Midterm Exam, Final Exam Greek Alphabet. Download：课程大纲]]></content>
       <categories>
         <category>Course</category>
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[2023春本科生《高级宏观经济学》课程信息]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2F%2Fteaching%2F2023sumacro%2F</url>
-    <content type="text"><![CDATA[西方经济学（第二版，下册宏观经济学部分）。《西方经济学》编写组。高等教育出版社，人民出版社，2019（2021重印）。 高级宏观经济学（第五版），（美）罗默著，吴化斌/龚关译，上海财经大学出版社，2021。 Advanced Macroeconomics, 5th Edition. David Romer, 2018. New York: McGraw-Hill Irwin. Chapter 5. Download: slides, 推导笔记,参考论文,codes_and_figures, notes_1, notes_2, notes_3. Homework: 5.3, 5.4, 5.6, 5.14. Due date to be announced. Chapter 4. Download: slides. No assignments. Chapter 3. Download: slides. Assignments: 3.1, 3.2, 3.7, 3.11. Due date: May/22/2023. Chapter 2. Download: slides, supplementary notes. 动态规划与最优控制入门讲义（不做要求，仅供部分学有余力的同学参考）。Assignments: 2.2, 2.6, 2.9, 2.10, 2.18, 2.19. Due date: May/15/2023. Chapter 1. Download: slides.Assignments: 1.1, 1.3, 1.4, 1.9, 1.12, 1.13 Due date: April/06/2023. Exams in previous years. 2015：Midterm 1，Midterm 2，Final Exam。2016：Midterm 1，Midterm 2，Final Exam。2017：Midterm 1，Midterm 2，Final Exam。2018：Midterm 1, Midterm 2, Final Exam。2019：Midterm 1, Midterm 2, Final Exam。2020：Final Exam。2021：Midterm Exam, Final Exam Greek Alphabet. Download：课程大纲]]></content>
+    <title><![CDATA[Doctoral Macroeconomics, lectures on Dynamic Programming and Optimal Control, 2023 Fall]]></title>
+    <url>https%3A%2F%2Fwww.yiming.website%2F%2Fteaching%2F2023fdmacro%2F</url>
+    <content type="text"><![CDATA[For this year's lecture notes on introductory DP &amp; OC, please download notes and supplementary files from the following links：Lecture Notes, Lucas Tree Paper, Lucas Tree notebook from QuantEcon.org. Exercises are due on January 15th, 2024. Download link: Homework. You may want to download the Matlab and/or Python template scripts that give you basic ideas on how to implement the steps required in a dynamic programming problem: Matlab codes, Python codes. Please DO notice the comment lines on top of the script files. 123456# To run this script in Python, you should make sure that # both matplotlib and numpy modules are pre-installed.# This file should serve only as a template for you to start working.# So I intentionally added quite a few mistakes (but not syntax errors)# into this file, to make sure that nobody can just copy # all the codes to her software and get correct results. 1234% codes in Matlab for (a)-(c) of the Dynamic Programming homework. % I intentionally added quite a few mistakes (but not syntax errors)% into this file, to make sure that nobody can just copy % all the codes to her software and get correct results.]]></content>
       <categories>
         <category>Course</category>
       </categories>
@@ -171,9 +171,9 @@
     <content type="text"></content>
   </entry>
   <entry>
-    <title><![CDATA[经济系研究生答辩相关文件下载]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2Fecondefense%2Findex.html</url>
-    <content type="text"><![CDATA[当前答辩安排 2020年08月29日 经济系在职硕士毕业答辩 安排下载 相关表格下载 硕士开题相关： 硕士生中期筛选考核表 研究生科研能力评议表 博士开题相关： 博士生中期筛选考核表 研究生科研能力评议表 博士预答辩相关： 博士学位论文预答辩申请表 博士学位论文预答辩意见书 硕士答辩相关： 学历硕士（人文社科类） 同等学力硕士（人文社科类） 专业学位（全日制及非全日制双证硕士） 专业学位(非全日制硕士单证) 博士答辩相关： 学历博士(人文社科类)]]></content>
+    <title><![CDATA[All Tags]]></title>
+    <url>https%3A%2F%2Fwww.yiming.website%2Ftags%2Findex.html</url>
+    <content type="text"></content>
   </entry>
   <entry>
     <title><![CDATA[Teaching Information]]></title>
@@ -181,14 +181,14 @@
     <content type="text"><![CDATA[Spring Semester 2018 Undergraduate Advanced Macroeconomics. Click here for course information. Fall Semester 2017 Undergraduate Intermediate Macroeconomics. Click here for course information. Graduate Advanced Macroeconoics (instructed jointly with Xu and Ma). Click here for course information.]]></content>
   </entry>
   <entry>
-    <title><![CDATA[All Tags]]></title>
-    <url>https%3A%2F%2Fwww.yiming.website%2Ftags%2Findex.html</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
     <title><![CDATA[Workshop and Seminar Information]]></title>
     <url>https%3A%2F%2Fwww.yiming.website%2Fworkshop%2Findex.html</url>
     <content type="text"><![CDATA[Spring Semester 2018 Workshop on Macroeconomic Issues. Click here for more information. Fall Semester 2017 Workshop on Macroeconomic Issues. Click here for more information.]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[经济系研究生答辩相关文件下载]]></title>
+    <url>https%3A%2F%2Fwww.yiming.website%2Fecondefense%2Findex.html</url>
+    <content type="text"><![CDATA[当前答辩安排 2020年08月29日 经济系在职硕士毕业答辩 安排下载 相关表格下载 硕士开题相关： 硕士生中期筛选考核表 研究生科研能力评议表 博士开题相关： 博士生中期筛选考核表 研究生科研能力评议表 博士预答辩相关： 博士学位论文预答辩申请表 博士学位论文预答辩意见书 硕士答辩相关： 学历硕士（人文社科类） 同等学力硕士（人文社科类） 专业学位（全日制及非全日制双证硕士） 专业学位(非全日制硕士单证) 博士答辩相关： 学历博士(人文社科类)]]></content>
   </entry>
   <entry>
     <title><![CDATA[Temporary Files]]></title>
